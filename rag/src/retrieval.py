@@ -68,4 +68,4 @@ if __name__ == "__main__":
     query = "What are the effects of climate change on coral reefs?"
     
     # Retrieve and print the results
-    print(retrieve(query))
+    #print(retrieve(query))
