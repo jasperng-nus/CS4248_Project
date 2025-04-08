@@ -5,13 +5,13 @@ import os
 from openai import OpenAI
 import faiss
 
+# --- Configuration ---
 BATCH_SIZE = 100
 MODEL = "text-embedding-3-small"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 def load_scicite():
     scicite_sentences = []
-
     path_to_data = os.path.join('..', 'data', 'raw', 'test.jsonl')
     with open(path_to_data, "r", encoding='utf-8') as f:
         for line in f:
@@ -27,11 +27,9 @@ def preprocess_sentence(df):
         df['text_for_embeddings'] += " Section Name: " + df['sectionName'].fillna('')
     if 'sectionName' in df.columns:
         df['text_for_embeddings'] += " Classification Label: " + df['label'].fillna('')
-
     return df
 
 def generate_embeddings(df):
-
     all_embeddings = []
     client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -57,10 +55,6 @@ def generate_embeddings(df):
     return embeddings
 
 def store_embeddings(embeddings):
-
-    
-
-    # Store embeddings into FAISS database
     # Create FAISS database and store embeddings
     dimension = embeddings.shape[1] 
     faiss_structure = faiss.IndexFlatL2(dimension)
@@ -71,14 +65,13 @@ def store_embeddings(embeddings):
 def run_pipeline():
     df = load_scicite()
     df = preprocess_sentence(df)
+
+    # Save the processed data for retrieval
     df.to_csv(os.path.join(os.path.join('..', 'data', 'embeddings'), 'processed_data.csv'), index=False)
+
+    # Generate embeddings, then store them and build the FAISS index
     # embeddings = generate_embeddings(df)
-    # embeddings.type
-    # embeddings[0]
-
-    # path_to_data = os.path.join('..', 'data', 'embeddings', 'test_embeddings.npy')
-    # embeddings = np.load(path_to_data)
-
+    # embeddings = np.load('test_embeddings.npy') 
     # store_embeddings(embeddings)
 
 if __name__ == "__main__":
