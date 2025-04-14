@@ -31,7 +31,7 @@ def retrieve(query, top_k=5):
     # Path to the FAISS index and processed CSV file
     embeddings_folder = os.path.join('..', 'data', 'embeddings')
     index_path = os.path.join(embeddings_folder, 'faiss_index.idx')
-    data_path = os.path.join(embeddings_folder, 'processed_data.csv')
+    data_path = os.path.join(embeddings_folder, 'augmented_data.csv')
 
     # Load FAISS index and processed data
     index = faiss.read_index(index_path)

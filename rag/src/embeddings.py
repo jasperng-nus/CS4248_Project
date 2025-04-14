@@ -12,7 +12,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 def load_scicite():
     scicite_sentences = []
-    path_to_data = os.path.join('..', 'data', 'raw', 'test.jsonl')
+    path_to_data = os.path.join('..', '..', 'cleaning', 'AugmentedData', 'augmented_data.jsonl')
+
+    # with open(path_to_data, 'rb') as f:
+    #     content = f.read()
+    #     print(content[3680:3700])
     with open(path_to_data, "r", encoding='utf-8') as f:
         for line in f:
           scicite_sentences.append(json.loads(line))
@@ -50,7 +54,7 @@ def generate_embeddings(df):
     embeddings = np.array(all_embeddings).astype('float32')
     # Store embeddings locally for future reference
     path_to_folder = os.path.join('..', 'data', 'embeddings')
-    np.save(os.path.join(path_to_folder, 'test_embeddings.npy'), embeddings)
+    np.save(os.path.join(path_to_folder, 'augmented_data_embeddings.npy'), embeddings)
     
     return embeddings
 
@@ -67,12 +71,13 @@ def run_pipeline():
     df = preprocess_sentence(df)
 
     # Save the processed data for retrieval
-    df.to_csv(os.path.join(os.path.join('..', 'data', 'embeddings'), 'processed_data.csv'), index=False)
+    df.to_csv(os.path.join(os.path.join('..', 'data', 'embeddings'), 'augmented_data.csv'), index=False)
 
     # Generate embeddings, then store them and build the FAISS index
-    # embeddings = generate_embeddings(df)
-    # embeddings = np.load('test_embeddings.npy') 
-    # store_embeddings(embeddings)
+    embeddings = generate_embeddings(df)
+    augmented_embeddings_filepath = os.path.join(os.path.join('..', 'data', 'embeddings'), 'augmented_data_embeddings.npy')
+    embeddings = np.load(augmented_embeddings_filepath) 
+    store_embeddings(embeddings)
 
 if __name__ == "__main__":
     run_pipeline()

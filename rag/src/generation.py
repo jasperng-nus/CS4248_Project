@@ -46,7 +46,7 @@ def determine_model_output(results):
         claimList = filtered_results["string"].tolist()
         citations = "\n\nThe RAG has referenced claims from the following papers:\n" 
         for index, citingPaperId in enumerate(citingPaperIdList):
-            citations += f"{index+1}. {claimList[index]} Obtained from Citing Paper ID: {citingPaperId}. (Similarity Score: {similarityScoreList[index]})\n\n"
+            citations += f"{index+1}. {claimList[index]} (Claim obtained from Citing Paper ID: {citingPaperId}. Similarity Score: {similarityScoreList[index]:.2f})\n\n"
         answer += citations
 
     response = client.responses.create(
@@ -59,5 +59,6 @@ def determine_model_output(results):
 
 if __name__ == "__main__":
     # query = "What are the effects of climate change on coral reefs?"
-    query = "What were Mouse embryonic fibroblasts (MEFs) infected with?"
+    # query = "What were Mouse embryonic fibroblasts (MEFs) infected with?"
+    query = "Among the subgroups with minor depressive symptoms at baseline ( CES-D score 16-20 ) , did the CES-D score increase of decrease?"
     print(generate_answer(query))
