@@ -46,7 +46,7 @@ def determine_model_output(results):
         claimList = filtered_results["string"].tolist()
         citations = "\n\nThe RAG has referenced claims from the following papers:\n" 
         for index, citingPaperId in enumerate(citingPaperIdList):
-            citations += f"{index+1}. {claimList[index]} ({citingPaperId})\n\n"
+            citations += f"{index+1}. {claimList[index]} Obtained from Citing Paper ID: {citingPaperId}. (Similarity Score: {similarityScoreList[index]})\n\n"
         answer += citations
 
     response = client.responses.create(
