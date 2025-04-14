@@ -61,6 +61,8 @@ def retrieve(query, top_k=5):
     
     # add the predicted label to the results for reference
     results['predicted_label'] = predicted_label
+
+    # results['citing_paper_id'] = df['citingPaperId']
     return results
 
 if __name__ == "__main__":
@@ -68,4 +70,4 @@ if __name__ == "__main__":
     query = "What are the effects of climate change on coral reefs?"
     
     # Retrieve and print the results
-    #print(retrieve(query))
+    print(retrieve(query))
