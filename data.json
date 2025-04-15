@@ -178,8 +178,7 @@
     {
         "question": "What is the importance of the ozone layer?",
         "answer": "The ozone layer absorbs and protects life on Earth from harmful ultraviolet radiation, preventing skin cancer and other health issues while maintaining ecological balance."
-    }
-    
+    },
     {
         "question": "What is the relationship between baseline dietary glycemic index and all-cause mortality risk?",
         "answer": "As compared to participants in the lowest quartile of baseline dietary GI, those in the highest quartile showed an increased risk of all-cause mortality [HR = 2.15 (95% CI: 1.15-4.04); P for trend = 0.012]."
@@ -319,8 +318,7 @@
     {
         "question": "How does memantine affect cognitive performance in patients with DLB and PDD?",
         "answer": "In both populations, memantine produced statistically significant medium to large effect sized improvements to choice reaction time, immediate and delayed word recognition."
-    }
-        
+    },
     {
         "question": "What is the mechanism by which high glycemic index foods accelerate cellular aging?",
         "answer": "High glycemic index foods increase oxidative stress through AGE formation, mitochondrial dysfunction, and reduced autophagy, leading to telomere shortening and cellular senescence."
@@ -360,6 +358,206 @@
     {
         "question": "How does silymarin supplementation modify hepatic gene expression related to lipid metabolism in transition dairy cows?",
         "answer": "Silymarin upregulates PPAR-α expression by 2.8-fold and increases CPT-1 and ACOX gene expression by 1.9-fold and 2.2-fold respectively, enhancing hepatic β-oxidation capacity while downregulating lipogenic genes SREBP-1c and FAS by approximately 40%."
+    },
+    {
+        "question": "Why is it important to understand the configuration of components during software deployment?", 
+        "answer": "Understanding the configuration ensures compatibility and proper integration of components, which is critical for successful deployment."
+    },
+    {
+        "question": "How do biological systems generate patterns?", 
+        "answer": "Biological systems can generate patterns through independent mechanisms, each capable of producing distinct outcomes."
+    },
+    {
+        "question": "What defines mentoring in a professional context?", 
+        "answer": "Mentoring is defined as taking an active interest in advancing someone's career by providing developmental guidance and support."
+    },
+    {
+        "question": "What role do ice sheets play in shaping landscapes?", 
+        "answer": "Ice sheets erode and reshape landscapes, significantly altering the height and width of geological formations like mountains."
+    },
+    {
+        "question": "How does social support impact mental health?", 
+        "answer": "Support from friends and family is strongly linked to lower depression levels."
+    },
+    {
+        "question": "What factors contribute to the risk of developing melanoma?",
+        "answer": "The risk of melanoma is influenced by age and gender, with males over 40 being at higher risk than females, while females under 40 are more affected than males."
+    },
+    {
+        "question": "What does cerebrospinal fluid indicate in brain imaging for Alzheimer's disease?", 
+        "answer": "Cerebrospinal fluid biomarkers, along with poor memory test performance, are associated with medial temporal lobe atrophy, aiding Alzheimer's diagnosis."
+    },
+    {
+        "question": "Why is the utilization of lesser-known species important for tropical forest sustainability?", 
+        "answer": "Lesser-known species make up the majority of tropical forest volume, and better utilization of these species supports biodiversity and reduces waste from logging and land conversion."
+    },
+    {
+        "question": "Why are interdisciplinary approaches recommended in healthcare?", 
+        "answer": "They are recommended because integrating expertise from different fields can more effectively address complex healthcare needs across diverse areas like primary care and disability assessment."
+    },
+    {
+        "question": "What factors should be considered when designing phylogenetic studies?",
+        "answer": "Designing phylogenetic studies involves choosing genomic regions with optimal sequence divergence, selecting appropriate taxa—including suitable outgroups—and considering computational constraints. Intermediate levels of sequence divergence are most informative, and the effectiveness of gene regions and taxon selection can often be assessed before data collection."
+    },
+    {
+        "question": "What roles do Ku proteins play in cellular processes?", 
+        "answer": "Ku proteins are primarily involved in DNA repair, but they also participate in telomere maintenance, anti-apoptosis, tumor suppression, gene transcription regulation, cell cycle control, and DNA replication."
+    },
+    {
+        "question": "How much can genetic factors explain population-level variation?", 
+        "answer": "Genetic factors may account for up to 50–60% of the variance in the population, suggesting a substantial influence on certain traits or outcomes."
+    },
+    {
+        "question": "How do Notch and NFAT signaling pathways influence cell differentiation?", 
+        "answer": "Notch and NFAT signaling pathways interact to regulate cell differentiation processes such as keratinocyte and osteoblast function, either through integration or reciprocal inhibition."
+    },
+    {
+        "question": "What enzymatic activities do mammalian lysozymes perform?", 
+        "answer": "Mammalian lysozymes function as c-type muramidases, capable of catalyzing both hydrolysis and transglycosylation reactions."
+    },
+    {
+        "question": "What are the effects of high-dose X-irradiation in hypocatalasemic mice?", 
+        "answer": "High-dose X-irradiation in hypocatalasemic mice has been shown to readily induce signet ring cell carcinoma."
+    },
+    {
+        "question": "How were images processed before feature extraction in the study?", 
+        "answer": "Images were resized to 512 × 341 pixels before applying PCA-SIFT to extract feature vectors."
+    },
+    {
+        "question": "How are NMDAR antagonists used in neuroscience research?", 
+        "answer": "NMDAR antagonists are used as models to study cognitive impairments, particularly those observed in schizophrenia, by disrupting normal receptor function and mimicking aspects of the disorder."
+    },
+    {
+        "question": "What causes mosaic patterns in mitochondrial diseases like MERRF?", 
+        "answer": "Mosaic patterns in mitochondrial diseases may result from uneven segregation of mutant and wild-type mitochondrial DNA among cells, leading to variable expression of the disease phenotype."
+    },
+    {
+        "question": "What role do Glomeromycota fungi play in plant development?", 
+        "answer": "Fungi from the Glomeromycota group, such as Glomus group A, form symbiotic associations with both the sporophyte and gametophyte stages of plants, including mycoheterotrophic gametophytes, supporting plant development and nutrient exchange."
+    },
+    {
+        "question": "How are lesser-known species defined in tropical forestry?", 
+        "answer": "Lesser-known species (LKS) are defined as tree species that, while not entirely unknown, currently have low commercial demand and represent a significant portion of unutilized wood in tropical forests."
+    },
+    {
+        "question": "What is the significance of studying lesser-known species for sustainability?", 
+        "answer": "The study of lesser-known species is vital for promoting sustainable forestry practices, as approximately 93% of tropical forest volume consists of these species. Understanding their characteristics and availability can help prevent waste during logging and other land-use changes, thereby supporting biodiversity and ecosystem health."
+    },
+    {
+        "question": "What are the common components examined for leptospirosis vaccine development?", 
+        "answer": "Proteins such as OmpL1, MPL17, and LipL32 have been frequently studied as vaccine candidates."
+    },
+    {
+        "question": "Why are pre-loads used in spine stability experiments?", 
+        "answer": "Pre-loads are used to simulate natural muscle tension, allowing researchers to study how trunk muscle stiffness and spinal stability respond to sudden loads. While pre-loads increase muscle stiffness, studies suggest that the magnitude of muscle activation is more influenced by the added load than the pre-load itself."
+    },
+    {
+        "question": "How do auditory sources affect brain activation?", 
+        "answer": "Auditory sources are associated with broad activation patterns in the mid-sagittal plane, reflecting the brain's processing of sound stimuli."
+    },
+    {
+        "question": "What role does cell cycle activation play in neurodegenerative disorders?", 
+        "answer": "Cell cycle activation (CCA) is increasingly recognized as a factor in the pathophysiology of both acute and chronic neurodegenerative disorders, including cerebral ischemia, brain and spinal cord injury, Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis. Aberrant activation of the cell cycle in neurons can contribute to neuronal damage and disease progression."
+    },
+    {
+        "question": "What does poor performance on the FCSRT indicate in relation to brain health?", 
+        "answer": "Poor performance on the Free and Cued Selective Reminding Test (FCSRT) has been strongly associated with atrophy in the medial temporal lobe and is significantly linked to cerebrospinal fluid biomarkers for Alzheimer’s disease, supporting its validity as a diagnostic tool."
+    },
+    {
+        "question": "What is the role of adrenomedullin (ADM) in the body?", 
+        "answer": "Adrenomedullin (ADM) functions as a natriuretic peptide, helping to regulate salt and water balance in the body, which supports cardiovascular and renal health."
+    },
+    {
+        "question": "What factors influence the stability of CGNNs?", 
+        "answer": "The stability of CGNNs is influenced by the dynamical behaviors of their equilibrium points, which are critical for their applications in various systems."
+    },
+    {
+        "question": "What is the role of the medial temporal lobe in emotional processing?", 
+        "answer": "The medial temporal lobe network plays an important role in processing emotional stimuli, and its dysfunction can lead to impairments in this area."
+    },
+    {
+        "question": "How does physical activity benefit cancer survivors?", 
+        "answer": "Physical activity can improve cardiorespiratory fitness, body composition, physical functioning, and mood, while reducing fatigue in cancer survivors."
+    },
+    {
+        "question": "What is the impact of telomere attrition on cellular function?", 
+        "answer": "Telomere attrition can lead to early cellular senescence, replication defects, and fragile telomeres, affecting overall cellular stability."
+    },
+    {
+        "question": "How does daptomycin's antibiotic activity relate to calcium concentration?", 
+        "answer": "The activity of daptomycin is highly dependent on the concentration of calcium in the growth medium, as documented in early studies on this antibiotic's mechanism of action."
+    },
+    {
+        "question": "What role do protein-protein interactions play in copper transport mechanisms?", 
+        "answer": "Specific protein-protein interactions, such as those between Atox1 and metal-binding domains (MBDs), are essential for copper delivery to cellular compartments, which is critical for proper enzyme function and cellular metabolism."
+    },
+    {
+        "question": "How do microRNAs like miR-218 affect cancer cell behavior?", 
+        "answer": "MicroRNA-218 inhibits cancer cell proliferation, migration, and invasion, and promotes colon cancer cell apoptosis, suggesting its potential role as a tumor suppressor in multiple cancer types."
+    },
+    {
+        "question": "What impact does obesity have on bone health?", 
+        "answer": "Obesity results in significant bone loss, particularly affecting the trabecular architecture in young male mice, contradicting the traditional view that increased body weight provides protective bone loading effects. These findings highlight potential implications for human bone health, suggesting that obesity may similarly compromise skeletal integrity in people."
+    },
+    {
+        "question": "What is the main function of mitochondria in human cells?", 
+        "answer": "Mitochondria are responsible for producing energy in the form of ATP, which powers various cell activities."
+    },
+    {
+        "question": "How does photosynthesis provide energy for plants?", 
+        "answer": "Photosynthesis allows plants to convert sunlight, carbon dioxide, and water into glucose and oxygen, which fuels their growth."
+    },
+    {
+        "question": "What is the difference between supervised and unsupervised machine learning?", 
+        "answer": "Supervised learning uses labeled data to train models, while unsupervised learning identifies patterns in data without any labels."
+    },
+    {
+        "question": "What role does insulin play in the body?", 
+        "answer": "Insulin helps regulate blood sugar levels by allowing glucose to enter cells, where it’s used for energy."
+    },
+    {
+        "question": "Why do researchers use p-values in experiments?", 
+        "answer": "P-values help determine whether a result is statistically significant or likely due to random chance."
+    },
+    {
+        "question": "What is the blood-brain barrier and why is it important?", 
+        "answer": "The blood-brain barrier is a protective layer that prevents harmful substances in the blood from entering the brain."
+    },
+    {
+        "question": "How does antibiotic resistance develop in bacteria?", 
+        "answer": "Antibiotic resistance occurs when bacteria evolve to survive drugs that were once effective against them, often due to overuse or misuse of antibiotics."
+    },
+    {
+        "question": "What is gravity and how does it affect objects on Earth?", 
+        "answer": "Gravity is the force that pulls objects toward each other; on Earth, it gives weight to objects and keeps them grounded."
+    },
+    {
+        "question": "How does washing your hands with soap help prevent illness?", 
+        "answer": "Soap breaks down oils and germs on the skin, making it easier to wash them away and reduce the spread of disease."
+    },
+    {
+        "question": "What is the main function of the heart in the human body?", 
+        "answer": "The heart pumps blood throughout the body, delivering oxygen and nutrients while removing carbon dioxide and waste."
+    },
+    {
+        "question": "What is the exact origin of consciousness in the human brain?", 
+        "answer": "The origin of consciousness is still unknown, and remains one of the most complex and unresolved questions in neuroscience."
+    },
+    {
+        "question": "Can we predict the exact mutations that will occur in the next global pandemic virus?", 
+        "answer": "No, it is currently impossible to predict specific future mutations in a virus before they happen."
+    },
+    {
+        "question": "What is the complete formula that unifies quantum mechanics and general relativity?", 
+        "answer": "No definitive formula exists. Scientists have yet to develop a universally accepted theory that fully merges these two frameworks."
+    },
+    {
+        "question": "Is a parallel universe real?", 
+        "answer": "No absolute proof has been found, but theories like cosmic inflation and many-worlds quantum mechanics suggest their possibility. The case remains unproven, so we must live with some uncertainty."
+    },
+    {
+        "question": "Can we teleport an object?", 
+        "answer": "Quantum teleportation of information has been demonstrated, but teleporting physical objects remains beyond our current technological capability."
     }
 
 ]
