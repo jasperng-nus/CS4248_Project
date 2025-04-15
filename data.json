@@ -558,6 +558,206 @@
     {
         "question": "Can we teleport an object?", 
         "answer": "Quantum teleportation of information has been demonstrated, but teleporting physical objects remains beyond our current technological capability."
+    },
+    {
+        "question": "What is most commonly as first line treatment for solid tumors?",
+        "answer": "Cisplatin"
+    },
+    {
+        "question": "How is neuro development measured?",
+        "answer": "Neuro development is measured using the Griffiths scales of Mental Development"
+    },
+    {
+        "question": "How is acute lung injury induced in medical procedures?",
+        "answer": "EColi can be administered in the oropharynx to induce lung injury"
+    },
+    {
+        "question": "What is the national newborn screening programme?",
+        "answer": "It is a screening programme introduced in the Philippines which aims to facilitate early detection of congenital adrenal hyperplasia"
+    },
+    {
+        "question": "Why are gay men associated with depression?",
+        "answer": "The reason for this may be a lack of social support, stigma or lack of acceptance"
+    },
+    {
+        "question": "Can lymphoma affect the eyes?",
+        "answer": "Yes, Lymphoma can have adverse symptoms on the eyes."
+    },
+    {
+        "question": "How are ovarian endometrial cysts treated?",
+        "answer": "Laparoscopy is the most common treatment method."
+    },
+    {
+        "question": "How does curcumin affect your immune response?",
+        "answer": "Curcumin can change activation of T cells, B cells, macrophages, and dendritic cells, which can trigger a change in the immune response"
+    },
+    {
+        "question": "Is there a correlation between alcohol abuse and cost of liquor?",
+        "answer": "Studies have demonstrated that there is no correlation between the two"
+    },
+    {
+        "question": "With which organism did the first crispr study happen from?",
+        "answer": "The first crispr study came from EColi."
+    },
+    {
+        "question": "Why are rats so good at distinguishing foods?",
+        "answer": "This is because they have a good sense of smell."
+    },
+    {
+        "question": "What animal has a great sense of rotational orientation",
+        "answer": "Pigeons"
+    },
+    {
+        "question": "How is insulin sensitivity measured?",
+        "answer": "Insulin sensitivity index"
+    },
+    {
+        "question": "When is a graph clique perfect",
+        "answer": "A graph G is clique perfect if for every subgraph of G, the chromatic number equals the max clique"
+    },
+    {
+        "question": "Is it bad to be overweight or underweight?",
+        "answer": "Being both overweight and underweight had increased association with hospitalization."
+    },
+    {
+        "question": "Does breast cancer have neurological side effects",
+        "answer": "Research showed that breast cancer survivors reported cognitive changes such as memory, attention, and concentration"
+    },
+    {
+        "question": "What medicine can used for optimal skeletal muscle contractility?",
+        "answer": "Estradiol"
+    },
+    {
+        "question": "What is anthropomorphism?",
+        "answer": "Attributing human capacities to animals."
+    },
+    {
+        "question": "What is tf-idf value?",
+        "answer": "tf-idf value is the product of the term frequency and the inverse document frequency"
+    },
+    {
+        "question": "Can scoliosis cause pulmonary problems?",
+        "answer": "Yes, scoliosis can cause pulmonary problems."
+    },
+    {
+        "question": "Where is GFAP found?",
+        "answer": "It is found in the white and grey matter of the CNS"
+    },
+    {
+        "question": "Where is enteroglucagon produced?",
+        "answer": "It is produced in the small intestine."
+    },
+    {
+        "question": "What is the definition of survival time in medicine?",
+        "answer": "It is the number of years from diagnosis to death or last follow up."
+    },
+    {
+        "question": "How has public expenditure on home-care services changed betweem 2001 and 2008",
+        "answer": "It has nearly tripled from 2001 to 2008"
+    },
+    {
+        "question": "How do pathogens modify host behaviour?",
+        "answer": "By altering the immunophysiology of the host during infections."
+    },
+    {
+        "question": "Where can I view information on drug utilization",
+        "answer": "the Arianna database."
+    },
+    {
+        "question": "Can I use phenols to stop mosquitoes from breeding?",
+        "answer": "Yes, phenols supress adult insect fertility."
+    },
+    {
+        "question": "Which part of india has the highest tobacco consumption rate?",
+        "answer": "Mizoram has the highest tobacco consumption rate at 75%"
+    },
+    {
+        "question": "Describe the classification of patients into levels.",
+        "answer": "Patients can be classified into levels on the following basis. Level 1 patients are extremely high risk and require lifesaving intervention. Level 2 patients are high risk and are confused or have severe pain. Levels 3,4 and 5 need varying levels of resources in decreasing order."
+    },
+    {
+        "question": "What is a sign of preserved rna quality?",
+        "answer": "the appearance of higher 28s rrna peaks compared to 18s is an indicator of preserved rna quality."
+    },
+    {
+        "question": "Where are cell contacts formed",
+        "answer": "They are formed at the gap or adherens junctions."
+    },
+    {
+        "question": "Why is crp measurement important in older populations?",
+        "answer": "It is a good predictor for negative outcomes among older population groups."
+    },
+    {
+        "question": "What is the fundamental method behind MACE-style model finding",
+        "answer": "SAT solving"
+    },
+    {
+        "question": "Is the question, evaluate whether a set of vertices V of a graph G is clique-transversal NP complete? ",
+        "answer": "No, it is Co-NP complete"
+    },
+    {
+        "question": "Which protein can be an early detector of breast pre-neoplasias",
+        "answer": "Cyclin D1"
+    },
+    {
+        "question": "What is the capital city of Azerbaijan",
+        "answer": "The capital of Azerbaijan is Baku"
+    },
+    {
+        "question": "What ph level is considered to be acidic",
+        "answer": "Any ph level above 7 on the ph scale is said to be acidic."
+    },
+    {
+        "question": "What is the relationship between momentum and force?",
+        "answer": "Force is the rate of change of momentum"
+    },
+    {
+        "question": "Which scientist discovered the photoelectric effect?",
+        "answer": "Albert Einstein discovered the photoelectric effect."
+    },
+    {
+        "question": "What is the acid base imbalance in cushings syndrome",
+        "answer": "Hypokalemic metabolic alkalosis."
+    },
+    {
+        "question": "What branch of medicine deals with cancer?",
+        "answer": "Oncology is the field of medicine that deals with cancer."
+    },
+    {
+        "question": "Why does leaving a bicycle in the sun cause the tires to burst?",
+        "answer": "This is because the pressure is directly proportional to temperature by the ideal gas law."
+    },
+    {
+        "question": "Why do we hiccup?",
+        "answer": "This is because the phrenic nerve gets irritated."
+    },
+    {
+        "question": "What drug is used for prolactinoma?",
+        "answer": "Dopamine agonists such as cabergoline and bromocriptine are used for prolactinoma."
+    },
+    {
+        "question": "What is the sum of 1/n^2 as n goes to infinity?",
+        "answer": "pi^2 / 6"
+    },
+    {
+        "question": "What will be the highest earning stock tomorrow?",
+        "answer": "I can not answer that in a reasonable manner."
+    },
+    {
+        "question": "Does God exist?",
+        "answer": "I can not answer that in a reasonable manner."
+    },
+    {
+        "question": "Why do good things happen to bad people?",
+        "answer": "I can not answer that in a reasonable manner"
+    },
+    {
+        "question": "What is the cure for all cancers?",
+        "answer": "I can not answer that in a reasonable manner"
+    },
+    {
+        "question": "What is one element that we have not discovered yet?",
+        "answer": "I can not answer that in a reasonable manner."
     }
 
 ]
