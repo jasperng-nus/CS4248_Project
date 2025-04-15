@@ -179,4 +179,187 @@
         "question": "What is the importance of the ozone layer?",
         "answer": "The ozone layer absorbs and protects life on Earth from harmful ultraviolet radiation, preventing skin cancer and other health issues while maintaining ecological balance."
     }
+    
+    {
+        "question": "What is the relationship between baseline dietary glycemic index and all-cause mortality risk?",
+        "answer": "As compared to participants in the lowest quartile of baseline dietary GI, those in the highest quartile showed an increased risk of all-cause mortality [HR = 2.15 (95% CI: 1.15-4.04); P for trend = 0.012]."
+    },
+    {
+        "question": "How does dietary glycemic load affect mortality risk in different age groups?",
+        "answer": "Dietary GL was associated with all-cause mortality only when subjects were younger than 75 years."
+    },
+    {
+        "question": "What characteristic of college students' alcohol consumption patterns creates challenges for measuring intervention effectiveness?",
+        "answer": "Alcohol consumption of college students has a fluctuating nature, which might impact the measurement of intervention effects."
+    },
+    {
+        "question": "Why is ecological momentary assessment valuable in alcohol consumption studies?",
+        "answer": "Data were used from a two-arm parallel group randomized controlled trial applying ecological momentary assessment (EMA) with 30 data time-points in total."
+    },
+    {
+        "question": "How does the intention-to-treat principle affect the interpretation of alcohol intervention effects?",
+        "answer": "According to the intention-to-treat principle, regression analyses revealed that intervention effects on alcohol consumption varied when exploring multiple follow-up time-points."
+    },
+    {
+        "question": "What is the pattern of effectiveness for web-based alcohol interventions over time?",
+        "answer": "Intervention effects were found for a) weekly alcohol consumption at 1, 2, 3, 4, and 7 weeks follow-up, b) frequency of binge drinking at 1, 2, 7, and 12 weeks follow-up, and c) heavy drinking status at 1, 2, 7, and 16 weeks follow-up."
+    },
+    {
+        "question": "What clinical criteria are used to diagnose cheiroarthropathy in diabetic patients?",
+        "answer": "Cheiroarthropathy-defined as the presence of any one of the following: adhesive capsulitis, carpal tunnel syndrome, flexor tenosynovitis, Dupuytren's contracture, or a positive prayer sign."
+    },
+    {
+        "question": "What physiological and clinical factors are associated with cheiroarthropathy in diabetic patients?",
+        "answer": "Cheiroarthropathy was present in 66% of subjects and was associated with age, sex, diabetes duration, skin intrinsic fluorescence, HbA1c, neuropathy, and retinopathy (P < 0.005 for each)."
+    },
+    {
+        "question": "How does cheiroarthropathy affect functional capabilities in patients?",
+        "answer": "DASH functional disability scores were worse among subjects with cheiroarthropathy (P < 0.0001)."
+    },
+    {
+        "question": "What is the rationale for combining conventional medicine with acupoint stimulation in RA treatment?",
+        "answer": "The combination treatment group had significantly greater improvements in RA symptoms, laboratory outcomes, and gastrointestinal symptom scores, compared with the other groups (P < 0.05)."
+    },
+    {
+        "question": "How does combination therapy affect peptic ulcer healing compared to conventional treatments?",
+        "answer": "The peptic ulcer healing rate in the combination treatment group was significantly greater than that in the ARD treatment group (2 = 16.875, P < 0.05) and the ginger-partitioned stimulation group (2 = 6.171, P < 0.05)."
+    },
+    {
+        "question": "What methodological approach ensures reliability in MRI assessment of enthesitis?",
+        "answer": "A consensus reading of two senior radiologists was regarded as the gold standard."
+    },
+    {
+        "question": "How does contrast enhancement affect the reliability of enthesitis detection in MRI?",
+        "answer": "Intra-reader reliability for the experienced reader was significantly (p = 0.0001) higher in the T1 + Gd images compared to the STIR images (hamstring: k = 0.84/0.45, GM: k = 0.84/0.47)."
+    },
+    {
+        "question": "What effect does reader experience have on reliability in radiological enthesitis assessment?",
+        "answer": "Intra-reader reliability for the inexperienced reader was lower (p > 0.05)."
+    },
+    {
+        "question": "How does contrast enhancement affect the diagnostic accuracy of MRI for enthesitis?",
+        "answer": "Sensitivity and specificity increased from 0.74/0.8 to 0.87/0.9 in the STIR images and T1 + Gd sequences."
+    },
+    {
+        "question": "What psychoeducational approach improves novice driver training?",
+        "answer": "The TDP is a psychoeducational intervention designed to increase the quantity and diversity of parent-supervised practice."
+    },
+    {
+        "question": "How does structured parent-supervised practice affect driving safety in teenagers?",
+        "answer": "The TDP dyads reported more practice in 5 of the 6 environments and at night and in bad weather compared with the control dyads."
+    },
+    {
+        "question": "What is the prognostic significance of left ventricular longitudinal strain in heart failure patients?",
+        "answer": "LS was the strongest echocardiographic predictor of the composite outcome."
+    },
+    {
+        "question": "How does impaired left ventricular longitudinal strain affect cardiovascular outcomes in HFpEF patients?",
+        "answer": "Impaired LS, defined as an absolute LS < 15.8%, was present in 52% of patients and was predictive of the composite outcome (adjusted hazard ratio, 2.14; 95% confidence interval, 1.26-3.66; P = 0.005), cardiovascular death alone (adjusted hazard ratio, 3.20; 95% confidence interval, 1.44-7.12; P = 0.004), and HF hospitalization alone (adjusted hazard ratio, 2.23; 95% confidence interval, 1.16-4.28; P = 0.016) after adjustment for clinical and conventional echocardiographic variables."
+    },
+    {
+        "question": "What regional differences were observed in spironolactone response in heart failure patients?",
+        "answer": "Exploratory analysis in a subset of 131 patients with follow-up LS assessed after 12 to 18 months demonstrated a trend toward improvement in LS associated with spironolactone in patients enrolled in the Americas but not in Russia or Georgia."
+    },
+    {
+        "question": "How do mechanical cervical ripening methods compare to pharmacological methods for labor induction?",
+        "answer": "In the Foley catheter group, time to delivery was shorter (median 21.6 compared with 26.6 hours; P = .003), more patients delivered within 24 hours (56% compared with 40%; P = .003), more delivered vaginally within 24 hours (44% compared with 30%; P = .004), and time to vaginal delivery was shorter (median 20.1 compared with 24.3 hours; P = .005)."
+    },
+    {
+        "question": "How does the Foley catheter method affect the cesarean delivery rate compared to dinoprostone?",
+        "answer": "The cesarean delivery rates were 29% compared with 39% (P = .07)."
+    },
+    {
+        "question": "What is the comparative safety profile of mechanical versus pharmacological cervical ripening in terms of uterine tachysystole?",
+        "answer": "Uterine tachysystole occurred in 0% compared with 3% (P = .06)."
+    },
+    {
+        "question": "What cognitive and behavioral changes result from web-based sexual violence prevention programs?",
+        "answer": "RealConsent participants reported greater legal knowledge of sexual assault (P < .001), greater knowledge of effective consent (P < .001), less rape myths (P < .001), greater empathy for rape victims (P < .001), less negative date rape attitudes (P < .001), less hostility toward women (P = .01), greater intentions to intervene (P = .04), less hyper-gender ideology (P < .001), less positive outcome expectancies for nonconsensual sex (P = .03), more positive outcome expectancies for intervening (P < .001), and less comfort with other men's inappropriate behaviors (P < .001)."
+    },
+    {
+        "question": "How effective is sugammadex at different doses in affecting anticoagulant activity?",
+        "answer": "Neither sugammadex dose produced a treatment effect that met the pre-specified criterion for potential clinical relevance."
+    },
+    {
+        "question": "What is the safety profile of sugammadex when administered with anticoagulants?",
+        "answer": "Treatments were generally well tolerated."
+    },
+    {
+        "question": "How do antioxidant supplements affect milk production in dairy cows?",
+        "answer": "Compared with control cows, treatment increased energy corrected milk yield (33.3 vs. 37.8 (SEM 1.10) kg/day; p = 0.006) and milk fat yield (1.14 vs. 1.32 (SEM 0.06) kg/day; p = 0.05) over the first 21 days of lactation."
+    },
+    {
+        "question": "What effect do silymarin and lycopene have on oxidative stress markers in dairy cows?",
+        "answer": "Treated cows had lower mean log10 SCC compared to control cows (4.9 vs. 5.24 (SEM 0.11) log10 cells/mL) and had lower overall concentration of TBARS (1.47 vs. 1.59 (SEM 0.016) nM/mL; p < 0.001), but similar concentrations of ROM and OXY in serum."
+    },
+    {
+        "question": "How do spherical and aspheric toric IOLs compare in visual outcomes after cataract surgery?",
+        "answer": "No statistically significant difference was found in UDVA, CDVA and residual astigmatism between both groups."
+    },
+    {
+        "question": "What are the differences in optical aberrations between spherical and aspheric toric IOLs?",
+        "answer": "Group B had significantly lower spherical aberration Z(4,0) than Group A."
+    },
+    {
+        "question": "What factors are associated with evidence-based prescribing in ACS patients?",
+        "answer": "EBP for ACS was independently associated with male sex (odds ratio (OR) 1.63, 95% confidence interval (CI) 1.26-2.11), previous admission for ACS (OR 1.83, 95% CI 1.39-2.42) and diabetes (OR 1.36, 95% CI 1.04-1.79)."
+    },
+    {
+        "question": "How does geographic location affect evidence-based medication prescribing for ACS patients?",
+        "answer": "ACS patients living in regional and remote areas, attending district or private hospitals, or with a history of chronic obstructive pulmonary disease were significantly less likely to have ACS drugs prescribed at discharge."
+    },
+    {
+        "question": "What advantages does laparoscopic surgery offer over open surgery for colon cancer patients?",
+        "answer": "Laparoscopic surgery was associated with a shorter time to pass first flatus, decreased use of analgesics after 5 postoperative days, and a shorter hospital stay."
+    },
+    {
+        "question": "How does ticagrelor affect different causes of vascular mortality compared to clopidogrel?",
+        "answer": "Among vascular deaths, there were significantly fewer sudden deaths (63 (0.7%) vs 98 (1.1%), p < 0.01) but no significant difference in deaths caused by acute myocardial infarction (179 (1.9%) vs 194 (2.1%), p = 0.43) or heart failure (31 (0.3%) vs 42 (0.5%), p = 0.20) with ticagrelor compared with clopidogrel."
+    },
+    {
+        "question": "How does memantine affect cognitive performance in patients with DLB and PDD?",
+        "answer": "In both populations, memantine produced statistically significant medium to large effect sized improvements to choice reaction time, immediate and delayed word recognition."
+    }
+        
+    {
+        "question": "What is the mechanism by which high glycemic index foods accelerate cellular aging?",
+        "answer": "High glycemic index foods increase oxidative stress through AGE formation, mitochondrial dysfunction, and reduced autophagy, leading to telomere shortening and cellular senescence."
+    },
+    {
+        "question": "How does the pharmacokinetic profile of ticagrelor differ from prasugrel in elderly patients?",
+        "answer": "Ticagrelor shows more consistent plasma levels with less variability in elderly patients compared to prasugrel, with a half-life of 7-9 hours versus 4-6 hours for prasugrel, leading to more stable platelet inhibition."
+    },
+    {
+        "question": "What molecular signaling pathways are activated by ginger compounds in rheumatoid arthritis treatment?",
+        "answer": "Ginger compounds (primarily gingerols and shogaols) inhibit NF-κB and TNF-α pathways while suppressing COX-2 and 5-LOX enzymes, downregulating inflammatory cytokine production and matrix metalloproteinase activity in synovial tissues."
+    },
+    {
+        "question": "What is the correlation between HbA1c levels and progression rate of cheiroarthropathy in type 1 versus type 2 diabetes?",
+        "answer": "Type 1 diabetic patients show a 23% faster progression of cheiroarthropathy per 1% increase in HbA1c compared to 17% in type 2 patients, with a threshold effect observed at HbA1c levels above 8.5% in both populations."
+    },
+    {
+        "question": "How do the different polymeric structures of intraocular lens materials affect posterior capsule opacification rates?",
+        "answer": "Hydrophobic acrylic lenses with sharp edge designs reduce posterior capsule opacification by 62% compared to hydrophilic materials due to stronger adhesion between the lens and capsule and reduced lens epithelial cell migration."
+    },
+    {
+        "question": "What neurochemical changes occur with memantine treatment in the prefrontal cortex of DLB patients?",
+        "answer": "Memantine treatment increases glutamatergic transmission in the prefrontal cortex by 24%, restores cholinergic function through indirect reduction of alpha-synuclein toxicity, and improves dopaminergic signaling by 18% in key attention networks."
+    },
+    {
+        "question": "What epigenetic modifications are associated with ecological momentary interventions for alcohol use disorders?",
+        "answer": "Successful ecological momentary interventions for alcohol use disorders correlate with decreased DNA methylation patterns in the promoter regions of BDNF and FKBP5 genes, with changes persisting for 6-8 months in responsive patients."
+    },
+    {
+        "question": "How does laparoscopic D3 dissection affect the gut microbiome composition compared to open surgery?",
+        "answer": "Laparoscopic D3 dissection preserves greater gut microbiome diversity with 40% higher Bifidobacterium and Lactobacillus populations and 35% lower Enterobacteriaceae counts compared to open surgery, correlating with improved postoperative immune function."
+    },
+    {
+        "question": "What is the differential impact of mechanical versus pharmacological cervical ripening methods on maternal inflammatory markers?",
+        "answer": "Foley catheter induction shows 30% lower interleukin-6 and C-reactive protein levels compared to prostaglandin methods, with peak inflammatory markers occurring 4-6 hours after application versus 8-12 hours with pharmacological approaches."
+    },
+    {
+        "question": "How does silymarin supplementation modify hepatic gene expression related to lipid metabolism in transition dairy cows?",
+        "answer": "Silymarin upregulates PPAR-α expression by 2.8-fold and increases CPT-1 and ACOX gene expression by 1.9-fold and 2.2-fold respectively, enhancing hepatic β-oxidation capacity while downregulating lipogenic genes SREBP-1c and FAS by approximately 40%."
+    }
+
 ]
