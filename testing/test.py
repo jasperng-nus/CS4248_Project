@@ -15,8 +15,8 @@ def main():
     outputs = []
     response_accuracy = []
     response_accuracy_augmented = []
-
-    with open('data.json', 'r') as file:
+    data_path = os.path.join(project_root, 'testing', 'data.json')
+    with open(data_path, 'r') as file:
         data = json.load(file)
 
     count = 0

@@ -1,11 +1,11 @@
 [
     {
         "question": "What antioxidant that accumulates predominantly in the lungs induces alveolar epithelial damage.",
-        "answer": "The antioxidant that accumulates predominantly in the lungs is BHT."
+        "answer": "BHT"
     },
     {
         "question": "Why do antibiotics led to less negatively charged zeta potential in Gram-negative bacteria",
-        "answer": "It is caused by the modification or complete loss of LPS or lipid A from the outer membrane"
+        "answer": "modification or complete loss of LPS and\\/or lipid A from the outer membrane"
     },
     {
         "question": "What effect does insulin resistance have on blood?",
@@ -13,7 +13,1153 @@
     },
     {
         "question": "What signalling pathways are activated by shear stress",
-        "answer": "Current evidence also indicates that shear stress activates two MAP kinases by distinct signaling pathways: activation of ERK is mediated by mechanisms involving Gai-2, protein kinases [Src, focal adhesion kinase (FAK), and protein kinase C-e], and Ras"
+        "answer": "\"Current evidence also indicates that shear stress activates two MAP kinases by distinct signaling pathways: activation of ERK is mediated by mechanisms involving Gai-2, protein kinases [Src, focal adhesion kinase (FAK), and protein kinase C-e], and Ras"
+    },
+    {
+        "question": "What impact does a throat pack have on increasing the risk of a sore throat",
+        "answer": "It increases the risk by more than 3 times."
+    },
+    {
+        "question": "Genotoxicity induced environmental stress involves interaction with the DNA undergoing what chemical stress?",
+        "answer": "Oxidative stress."
+    },
+    {
+        "question": "Increased expression of which genes has also been described in human pancreatic and prostate carcinomas",
+        "answer": "Smad6 and Smad7"
+    },
+    {
+        "question": "What accompanies higher phosphocreatine levels in tender meat samples?",
+        "answer": "higher amounts of glycolytic enzyme intermediates and oxidative stress"
+    },
+    {
+        "question": "What do oscillations in the intensity of environmental stressors have on mutation rates?",
+        "answer": "It results in higher mutation rates and a greater need to adapt when compared with constant stressor pressure."
+    },
+    {
+        "question": "What age or growth-dependent increases of trace-elements were found in top predator tissues.",
+        "answer": "Hg and Se"
+    },
+    {
+        "question": "What effect does particle size have on the intake of broiler chickens.",
+        "answer": "Broiler chickens prefer larger particles instead of finely ground."
+    },
+    {
+        "question": "The current staging system for non-small cell lung cancer (NSCLC) is tumor-node-metastasis (TNM) staging,(2) which provides only a definition of the anatomic extent of the neoplasia, which include what categories?",
+        "answer": "size, location, and extent of the primary lesion; presence and location of the locoregional lymph node metastasis; and systemic metastatic"
+    },
+    {
+        "question": "What gene expression is altered by maternal diabetes?",
+        "answer": "neurogenesis, neuronal migration, and differentiation of NSCs, leading to neural tube defects"
+    },
+    {
+        "question": "What is the strongest predictor of progression to Alzheimer's Disease?",
+        "answer": "PiB PET"
+    },
+    {
+        "question": "What is the potential implication of MEK protein being part of the MAPK family in terms of cellular regulation?",
+        "answer": "MEK protein, like other members of the MAPK family, may represent a group of enzymes that are regulated by diverse stimuli and across different cell types."
+    },
+    {
+        "question": "What cells are modulated by the immunomodulatory agent curcumin?",
+        "answer": "T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells"
+    },
+    {
+        "question": "How does white matter (WM) density in the internal capsule differ between men and women?",
+        "answer": "Compared with men, adult women have higher white matter (WM) density bilaterally within the internal capsule."
+    },
+    {
+        "question": "What is unique about the Prdm9 gene in canids compared to other eutherian mammals?",
+        "answer": "Canids are the only known eutherian mammals in which the Prdm9 gene has acquired disruptive mutations, making this a unique genetic feature among placental mammals."
+    },
+    {
+        "question": "What was the finding of the third cross-sectional study involving 680 elderly men in the US regarding air pollution?",
+        "answer": "The study found that long-term exposure to traffic-related air pollution was associated with lower scores on the Mini Mental State Examination, suggesting a potential link between air pollution and cognitive decline in elderly men."
+    },
+    {
+        "question": "What antigen is included in the commercial tick vaccines Gavac and TickGARD?",
+        "answer": "The commercial vaccines Gavac and TickGARD contain the recombinant Rhipicephalus microplus Bm86 gut antigen."
+    },
+    {
+        "question": "What role did the Andean uplift play in South American biodiversity?",
+        "answer": "The Andean uplift was one of the major drivers of biodiversity organization in South America, significantly influencing the distribution and evolution of species across the continent."
+    },
+    {
+        "question": "What was observed when fungi were isolated from seeds?",
+        "answer": "When a fungus was isolated from a seed, it was the only isolate found, and approximately 74% of the seeds were free of all culturable fungi, indicating a low prevalence of fungal colonization."
+    },
+    {
+        "question": "Why are the investigated intracellular phosphoprotein networks significant in the context of primary human AML cells?",
+        "answer": "The intracellular phosphoprotein networks studied\u00e2\u20ac\u201dwhether they are entire pathways or single mediators integrating signals from multiple pathways\u00e2\u20ac\u201dare crucial because they play a key role in downstream signaling from growth factor receptors that are commonly expressed by primary human acute myeloid leukemia (AML) cells."
+    },
+    {
+        "question": "What effect does lithium chloride have on IL-17-induced gene expression, and which enzymes does it inhibit?",
+        "answer": "Lithium chloride inhibits both GSK3\u00ce\u00b1 and GSK3\u00ce\u00b2 isoforms and has been shown to enhance IL-17-induced gene expression, indicating a role in modulating inflammatory signaling pathways."
+    },
+    {
+        "question": "How was the average rate of radioactive bolus transport along the trachea measured?",
+        "answer": "The average rate of radioactive bolus transport along the trachea, driven by mucociliary activity, was measured using six aligned 8-mm-thick scintillation detectors in combination with a six-channel count/time recorder."
+    },
+    {
+        "question": "How does cocaine seeking behavior change during withdrawal after extended-access self-administration?",
+        "answer": "Cocaine seeking behavior progressively increases over the first few months of withdrawal following extended-access cocaine self-administration and remains elevated even six months after the last exposure, indicating long-lasting drug-seeking tendencies."
+    },
+    {
+        "question": "How is accidentally encountered information often framed and personalized?",
+        "answer": "Accidentally encountered information is typically algorithmically framed and often personalized based on factors such as previous searches and geographical location, tailoring the content to individual preferences and context."
+    },
+    {
+        "question": "What does the literature suggest about the existence of a non-CB1 receptor in the hippocampus, and what is the controversy surrounding it?",
+        "answer": "The literature suggests that a non-CB1 receptor exists on excitatory terminals in the hippocampus , but this remains controversial, with other studies questioning or disputing its existenc"
+    },
+    {
+        "question": "What is the prevalence of Bifidobacteria in the human intestine?",
+        "answer": "Bifidobacteria is the third most common genus in the human intestine, making up about 3% of the adult fecal flora and more than 75% of the infant fecal flora."
+    },
+    {
+        "question": "Why are the bottoms of the Bohai and Yellow Seas not suitable for the settlement of A. coerulea planula larvae?",
+        "answer": "The bottoms of the Bohai and Yellow Seas are composed mainly of sand, mud, and mixed sediment, which are not suitable for the settlement of A. coerulea planula larvae."
+    },
+    {
+        "question": "How can otoliths be used to distinguish between geographic regions?",
+        "answer": "As otoliths grow, elements from the surrounding water mass are incorporated into the aragonite matrix, creating a chemical fingerprint that can be used to distinguish among different geographic regions."
+    },
+    {
+        "question": "What role do spacers play in CRISPR-mediated immunity?",
+        "answer": "Spacers specifically determine the targets of CRISPR-mediated immunity, likely through base-pairing recognition of the complementary sequence"
+    },
+    {
+        "question": "What role does GJIC play in fibroblast function in the skin?",
+        "answer": "GJIC is important for controlling the balance between proliferation and apoptosis of fibroblasts in the skin, as well as for regulating the production of the extracellular matrix (ECM)."
+    },
+    {
+        "question": "What is known about the expression of ADAM family metalloproteinases in the thymus?",
+        "answer": "Members of the ADAM family of metalloproteinases are expressed in adult thymi, and ADAM8 is specifically expressed in both fetal and adult thymi."
+    },
+    {
+        "question": "How do social ties contribute to an individual's daily life?",
+        "answer": "Social ties provide key resources that are necessary for individuals to perform the roles or tasks of daily living, supporting them in managing daily responsibilities and challenges."
+    },
+    {
+        "question": "What is the role of chlorophyll in photosynthesis?",
+        "answer": "Chlorophyll absorbs light energy, primarily in the blue and red wavelengths, and converts it into chemical energy during photosynthesis, helping plants produce glucose and oxygen."
+    },
+    {
+        "question": "How does temperature affect enzyme activity?",
+        "answer": "Temperature can influence enzyme activity by increasing the rate of reaction up to a certain point. However, if the temperature is too high, enzymes can denature, losing their function."
+    },
+    {
+        "question": "What is the significance of the blood-brain barrier?",
+        "answer": "The blood-brain barrier is crucial for protecting the brain from harmful substances in the blood, while allowing essential nutrients and gases to pass through."
+    },
+    {
+        "question": "How do bees contribute to pollination?",
+        "answer": "Bees transfer pollen from one flower to another while foraging for nectar, facilitating fertilization and helping plants reproduce"
+    },
+    {
+        "question": "What is the function of mitochondria in cells?",
+        "answer": "Mitochondria are the powerhouses of the cell, generating ATP through cellular respiration, which provides energy for various cellular functions."
+    },
+    {
+        "question": "What is the primary function of the immune system?",
+        "answer": "The immune system defends the body against harmful pathogens, such as bacteria and viruses, by recognizing and attacking foreign invaders."
+    },
+    {
+        "question": "How do tides form?",
+        "answer": "Tides are caused by the gravitational pull of the moon and the sun on Earth\u00e2\u20ac\u2122s oceans, resulting in the periodic rise and fall of sea levels."
+    },
+    {
+        "question": "What is the role of DNA polymerase in DNA replication?",
+        "answer": "DNA polymerase is an enzyme that adds nucleotides to a growing DNA strand during replication, ensuring the accurate duplication of genetic material."
+    },
+    {
+        "question": "How do fungi contribute to ecosystems?",
+        "answer": "Fungi decompose organic matter, recycling nutrients back into the soil and supporting plant growth, thus playing a vital role in nutrient cycling in ecosystems."
+    },
+    {
+        "question": "What is the importance of the ozone layer?",
+        "answer": "The ozone layer absorbs and protects life on Earth from harmful ultraviolet radiation, preventing skin cancer and other health issues while maintaining ecological balance."
+    },
+    {
+        "question": "What is the relationship between baseline dietary glycemic index and all-cause mortality risk?",
+        "answer": "As compared to participants in the lowest quartile of baseline dietary GI, those in the highest quartile showed an increased risk of all-cause mortality [HR = 2.15 (95% CI: 1.15-4.04); P for trend = 0.012]."
+    },
+    {
+        "question": "How does dietary glycemic load affect mortality risk in different age groups?",
+        "answer": "Dietary GL was associated with all-cause mortality only when subjects were younger than 75 years."
+    },
+    {
+        "question": "What characteristic of college students' alcohol consumption patterns creates challenges for measuring intervention effectiveness?",
+        "answer": "Alcohol consumption of college students has a fluctuating nature, which might impact the measurement of intervention effects."
+    },
+    {
+        "question": "Why is ecological momentary assessment valuable in alcohol consumption studies?",
+        "answer": "Data were used from a two-arm parallel group randomized controlled trial applying ecological momentary assessment (EMA) with 30 data time-points in total."
+    },
+    {
+        "question": "How does the intention-to-treat principle affect the interpretation of alcohol intervention effects?",
+        "answer": "According to the intention-to-treat principle, regression analyses revealed that intervention effects on alcohol consumption varied when exploring multiple follow-up time-points."
+    },
+    {
+        "question": "What is the pattern of effectiveness for web-based alcohol interventions over time?",
+        "answer": "Intervention effects were found for a) weekly alcohol consumption at 1, 2, 3, 4, and 7 weeks follow-up, b) frequency of binge drinking at 1, 2, 7, and 12 weeks follow-up, and c) heavy drinking status at 1, 2, 7, and 16 weeks follow-up."
+    },
+    {
+        "question": "What clinical criteria are used to diagnose cheiroarthropathy in diabetic patients?",
+        "answer": "Cheiroarthropathy-defined as the presence of any one of the following: adhesive capsulitis, carpal tunnel syndrome, flexor tenosynovitis, Dupuytren's contracture, or a positive prayer sign."
+    },
+    {
+        "question": "What physiological and clinical factors are associated with cheiroarthropathy in diabetic patients?",
+        "answer": "Cheiroarthropathy was present in 66% of subjects and was associated with age, sex, diabetes duration, skin intrinsic fluorescence, HbA1c, neuropathy, and retinopathy (P < 0.005 for each)."
+    },
+    {
+        "question": "How does cheiroarthropathy affect functional capabilities in patients?",
+        "answer": "DASH functional disability scores were worse among subjects with cheiroarthropathy (P < 0.0001)."
+    },
+    {
+        "question": "What is the rationale for combining conventional medicine with acupoint stimulation in RA treatment?",
+        "answer": "The combination treatment group had significantly greater improvements in RA symptoms, laboratory outcomes, and gastrointestinal symptom scores, compared with the other groups (P < 0.05)."
+    },
+    {
+        "question": "How does combination therapy affect peptic ulcer healing compared to conventional treatments?",
+        "answer": "The peptic ulcer healing rate in the combination treatment group was significantly greater than that in the ARD treatment group (2 = 16.875, P < 0.05) and the ginger-partitioned stimulation group (2 = 6.171, P < 0.05)."
+    },
+    {
+        "question": "What methodological approach ensures reliability in MRI assessment of enthesitis?",
+        "answer": "A consensus reading of two senior radiologists was regarded as the gold standard."
+    },
+    {
+        "question": "How does contrast enhancement affect the reliability of enthesitis detection in MRI?",
+        "answer": "Intra-reader reliability for the experienced reader was significantly (p = 0.0001) higher in the T1 + Gd images compared to the STIR images (hamstring: k = 0.84/0.45, GM: k = 0.84/0.47)."
+    },
+    {
+        "question": "What effect does reader experience have on reliability in radiological enthesitis assessment?",
+        "answer": "Intra-reader reliability for the inexperienced reader was lower (p > 0.05)."
+    },
+    {
+        "question": "How does contrast enhancement affect the diagnostic accuracy of MRI for enthesitis?",
+        "answer": "Sensitivity and specificity increased from 0.74/0.8 to 0.87/0.9 in the STIR images and T1 + Gd sequences."
+    },
+    {
+        "question": "What psychoeducational approach improves novice driver training?",
+        "answer": "The TDP is a psychoeducational intervention designed to increase the quantity and diversity of parent-supervised practice."
+    },
+    {
+        "question": "How does structured parent-supervised practice affect driving safety in teenagers?",
+        "answer": "The TDP dyads reported more practice in 5 of the 6 environments and at night and in bad weather compared with the control dyads."
+    },
+    {
+        "question": "What is the prognostic significance of left ventricular longitudinal strain in heart failure patients?",
+        "answer": "LS was the strongest echocardiographic predictor of the composite outcome."
+    },
+    {
+        "question": "How does impaired left ventricular longitudinal strain affect cardiovascular outcomes in HFpEF patients?",
+        "answer": "Impaired LS, defined as an absolute LS < 15.8%, was present in 52% of patients and was predictive of the composite outcome (adjusted hazard ratio, 2.14; 95% confidence interval, 1.26-3.66; P = 0.005), cardiovascular death alone (adjusted hazard ratio, 3.20; 95% confidence interval, 1.44-7.12; P = 0.004), and HF hospitalization alone (adjusted hazard ratio, 2.23; 95% confidence interval, 1.16-4.28; P = 0.016) after adjustment for clinical and conventional echocardiographic variables."
+    },
+    {
+        "question": "What regional differences were observed in spironolactone response in heart failure patients?",
+        "answer": "Exploratory analysis in a subset of 131 patients with follow-up LS assessed after 12 to 18 months demonstrated a trend toward improvement in LS associated with spironolactone in patients enrolled in the Americas but not in Russia or Georgia."
+    },
+    {
+        "question": "How do mechanical cervical ripening methods compare to pharmacological methods for labor induction?",
+        "answer": "In the Foley catheter group, time to delivery was shorter (median 21.6 compared with 26.6 hours; P = .003), more patients delivered within 24 hours (56% compared with 40%; P = .003), more delivered vaginally within 24 hours (44% compared with 30%; P = .004), and time to vaginal delivery was shorter (median 20.1 compared with 24.3 hours; P = .005)."
+    },
+    {
+        "question": "How does the Foley catheter method affect the cesarean delivery rate compared to dinoprostone?",
+        "answer": "The cesarean delivery rates were 29% compared with 39% (P = .07)."
+    },
+    {
+        "question": "What is the comparative safety profile of mechanical versus pharmacological cervical ripening in terms of uterine tachysystole?",
+        "answer": "Uterine tachysystole occurred in 0% compared with 3% (P = .06)."
+    },
+    {
+        "question": "What cognitive and behavioral changes result from web-based sexual violence prevention programs?",
+        "answer": "RealConsent participants reported greater legal knowledge of sexual assault (P < .001), greater knowledge of effective consent (P < .001), less rape myths (P < .001), greater empathy for rape victims (P < .001), less negative date rape attitudes (P < .001), less hostility toward women (P = .01), greater intentions to intervene (P = .04), less hyper-gender ideology (P < .001), less positive outcome expectancies for nonconsensual sex (P = .03), more positive outcome expectancies for intervening (P < .001), and less comfort with other men's inappropriate behaviors (P < .001)."
+    },
+    {
+        "question": "How effective is sugammadex at different doses in affecting anticoagulant activity?",
+        "answer": "Neither sugammadex dose produced a treatment effect that met the pre-specified criterion for potential clinical relevance."
+    },
+    {
+        "question": "What is the safety profile of sugammadex when administered with anticoagulants?",
+        "answer": "Treatments were generally well tolerated."
+    },
+    {
+        "question": "How do antioxidant supplements affect milk production in dairy cows?",
+        "answer": "Compared with control cows, treatment increased energy corrected milk yield (33.3 vs. 37.8 (SEM 1.10) kg/day; p = 0.006) and milk fat yield (1.14 vs. 1.32 (SEM 0.06) kg/day; p = 0.05) over the first 21 days of lactation."
+    },
+    {
+        "question": "What effect do silymarin and lycopene have on oxidative stress markers in dairy cows?",
+        "answer": "Treated cows had lower mean log10 SCC compared to control cows (4.9 vs. 5.24 (SEM 0.11) log10 cells/mL) and had lower overall concentration of TBARS (1.47 vs. 1.59 (SEM 0.016) nM/mL; p < 0.001), but similar concentrations of ROM and OXY in serum."
+    },
+    {
+        "question": "How do spherical and aspheric toric IOLs compare in visual outcomes after cataract surgery?",
+        "answer": "No statistically significant difference was found in UDVA, CDVA and residual astigmatism between both groups."
+    },
+    {
+        "question": "What are the differences in optical aberrations between spherical and aspheric toric IOLs?",
+        "answer": "Group B had significantly lower spherical aberration Z(4,0) than Group A."
+    },
+    {
+        "question": "What factors are associated with evidence-based prescribing in ACS patients?",
+        "answer": "EBP for ACS was independently associated with male sex (odds ratio (OR) 1.63, 95% confidence interval (CI) 1.26-2.11), previous admission for ACS (OR 1.83, 95% CI 1.39-2.42) and diabetes (OR 1.36, 95% CI 1.04-1.79)."
+    },
+    {
+        "question": "How does geographic location affect evidence-based medication prescribing for ACS patients?",
+        "answer": "ACS patients living in regional and remote areas, attending district or private hospitals, or with a history of chronic obstructive pulmonary disease were significantly less likely to have ACS drugs prescribed at discharge."
+    },
+    {
+        "question": "What advantages does laparoscopic surgery offer over open surgery for colon cancer patients?",
+        "answer": "Laparoscopic surgery was associated with a shorter time to pass first flatus, decreased use of analgesics after 5 postoperative days, and a shorter hospital stay."
+    },
+    {
+        "question": "How does ticagrelor affect different causes of vascular mortality compared to clopidogrel?",
+        "answer": "Among vascular deaths, there were significantly fewer sudden deaths (63 (0.7%) vs 98 (1.1%), p < 0.01) but no significant difference in deaths caused by acute myocardial infarction (179 (1.9%) vs 194 (2.1%), p = 0.43) or heart failure (31 (0.3%) vs 42 (0.5%), p = 0.20) with ticagrelor compared with clopidogrel."
+    },
+    {
+        "question": "How does memantine affect cognitive performance in patients with DLB and PDD?",
+        "answer": "In both populations, memantine produced statistically significant medium to large effect sized improvements to choice reaction time, immediate and delayed word recognition."
+    },
+    {
+        "question": "What is the mechanism by which high glycemic index foods accelerate cellular aging?",
+        "answer": "High glycemic index foods increase oxidative stress through AGE formation, mitochondrial dysfunction, and reduced autophagy, leading to telomere shortening and cellular senescence."
+    },
+    {
+        "question": "How does the pharmacokinetic profile of ticagrelor differ from prasugrel in elderly patients?",
+        "answer": "Ticagrelor shows more consistent plasma levels with less variability in elderly patients compared to prasugrel, with a half-life of 7-9 hours versus 4-6 hours for prasugrel, leading to more stable platelet inhibition."
+    },
+    {
+        "question": "What molecular signaling pathways are activated by ginger compounds in rheumatoid arthritis treatment?",
+        "answer": "Ginger compounds (primarily gingerols and shogaols) inhibit NF-κB and TNF-α pathways while suppressing COX-2 and 5-LOX enzymes, downregulating inflammatory cytokine production and matrix metalloproteinase activity in synovial tissues."
+    },
+    {
+        "question": "What is the correlation between HbA1c levels and progression rate of cheiroarthropathy in type 1 versus type 2 diabetes?",
+        "answer": "Type 1 diabetic patients show a 23% faster progression of cheiroarthropathy per 1% increase in HbA1c compared to 17% in type 2 patients, with a threshold effect observed at HbA1c levels above 8.5% in both populations."
+    },
+    {
+        "question": "How do the different polymeric structures of intraocular lens materials affect posterior capsule opacification rates?",
+        "answer": "Hydrophobic acrylic lenses with sharp edge designs reduce posterior capsule opacification by 62% compared to hydrophilic materials due to stronger adhesion between the lens and capsule and reduced lens epithelial cell migration."
+    },
+    {
+        "question": "What neurochemical changes occur with memantine treatment in the prefrontal cortex of DLB patients?",
+        "answer": "Memantine treatment increases glutamatergic transmission in the prefrontal cortex by 24%, restores cholinergic function through indirect reduction of alpha-synuclein toxicity, and improves dopaminergic signaling by 18% in key attention networks."
+    },
+    {
+        "question": "What epigenetic modifications are associated with ecological momentary interventions for alcohol use disorders?",
+        "answer": "Successful ecological momentary interventions for alcohol use disorders correlate with decreased DNA methylation patterns in the promoter regions of BDNF and FKBP5 genes, with changes persisting for 6-8 months in responsive patients."
+    },
+    {
+        "question": "How does laparoscopic D3 dissection affect the gut microbiome composition compared to open surgery?",
+        "answer": "Laparoscopic D3 dissection preserves greater gut microbiome diversity with 40% higher Bifidobacterium and Lactobacillus populations and 35% lower Enterobacteriaceae counts compared to open surgery, correlating with improved postoperative immune function."
+    },
+    {
+        "question": "What is the differential impact of mechanical versus pharmacological cervical ripening methods on maternal inflammatory markers?",
+        "answer": "Foley catheter induction shows 30% lower interleukin-6 and C-reactive protein levels compared to prostaglandin methods, with peak inflammatory markers occurring 4-6 hours after application versus 8-12 hours with pharmacological approaches."
+    },
+    {
+        "question": "How does silymarin supplementation modify hepatic gene expression related to lipid metabolism in transition dairy cows?",
+        "answer": "Silymarin upregulates PPAR-α expression by 2.8-fold and increases CPT-1 and ACOX gene expression by 1.9-fold and 2.2-fold respectively, enhancing hepatic β-oxidation capacity while downregulating lipogenic genes SREBP-1c and FAS by approximately 40%."
+    },
+    {
+        "question": "Why is it important to understand the configuration of components during software deployment?", 
+        "answer": "Understanding the configuration ensures compatibility and proper integration of components, which is critical for successful deployment."
+    },
+    {
+        "question": "How do biological systems generate patterns?", 
+        "answer": "Biological systems can generate patterns through independent mechanisms, each capable of producing distinct outcomes."
+    },
+    {
+        "question": "What defines mentoring in a professional context?", 
+        "answer": "Mentoring is defined as taking an active interest in advancing someone's career by providing developmental guidance and support."
+    },
+    {
+        "question": "What role do ice sheets play in shaping landscapes?", 
+        "answer": "Ice sheets erode and reshape landscapes, significantly altering the height and width of geological formations like mountains."
+    },
+    {
+        "question": "How does social support impact mental health?", 
+        "answer": "Support from friends and family is strongly linked to lower depression levels."
+    },
+    {
+        "question": "What factors contribute to the risk of developing melanoma?",
+        "answer": "The risk of melanoma is influenced by age and gender, with males over 40 being at higher risk than females, while females under 40 are more affected than males."
+    },
+    {
+        "question": "What does cerebrospinal fluid indicate in brain imaging for Alzheimer's disease?", 
+        "answer": "Cerebrospinal fluid biomarkers, along with poor memory test performance, are associated with medial temporal lobe atrophy, aiding Alzheimer's diagnosis."
+    },
+    {
+        "question": "Why is the utilization of lesser-known species important for tropical forest sustainability?", 
+        "answer": "Lesser-known species make up the majority of tropical forest volume, and better utilization of these species supports biodiversity and reduces waste from logging and land conversion."
+    },
+    {
+        "question": "Why are interdisciplinary approaches recommended in healthcare?", 
+        "answer": "They are recommended because integrating expertise from different fields can more effectively address complex healthcare needs across diverse areas like primary care and disability assessment."
+    },
+    {
+        "question": "What factors should be considered when designing phylogenetic studies?",
+        "answer": "Designing phylogenetic studies involves choosing genomic regions with optimal sequence divergence, selecting appropriate taxa—including suitable outgroups—and considering computational constraints. Intermediate levels of sequence divergence are most informative, and the effectiveness of gene regions and taxon selection can often be assessed before data collection."
+    },
+    {
+        "question": "What roles do Ku proteins play in cellular processes?", 
+        "answer": "Ku proteins are primarily involved in DNA repair, but they also participate in telomere maintenance, anti-apoptosis, tumor suppression, gene transcription regulation, cell cycle control, and DNA replication."
+    },
+    {
+        "question": "How much can genetic factors explain population-level variation?", 
+        "answer": "Genetic factors may account for up to 50–60% of the variance in the population, suggesting a substantial influence on certain traits or outcomes."
+    },
+    {
+        "question": "How do Notch and NFAT signaling pathways influence cell differentiation?", 
+        "answer": "Notch and NFAT signaling pathways interact to regulate cell differentiation processes such as keratinocyte and osteoblast function, either through integration or reciprocal inhibition."
+    },
+    {
+        "question": "What enzymatic activities do mammalian lysozymes perform?", 
+        "answer": "Mammalian lysozymes function as c-type muramidases, capable of catalyzing both hydrolysis and transglycosylation reactions."
+    },
+    {
+        "question": "What are the effects of high-dose X-irradiation in hypocatalasemic mice?", 
+        "answer": "High-dose X-irradiation in hypocatalasemic mice has been shown to readily induce signet ring cell carcinoma."
+    },
+    {
+        "question": "How were images processed before feature extraction in the study?", 
+        "answer": "Images were resized to 512 × 341 pixels before applying PCA-SIFT to extract feature vectors."
+    },
+    {
+        "question": "How are NMDAR antagonists used in neuroscience research?", 
+        "answer": "NMDAR antagonists are used as models to study cognitive impairments, particularly those observed in schizophrenia, by disrupting normal receptor function and mimicking aspects of the disorder."
+    },
+    {
+        "question": "What causes mosaic patterns in mitochondrial diseases like MERRF?", 
+        "answer": "Mosaic patterns in mitochondrial diseases may result from uneven segregation of mutant and wild-type mitochondrial DNA among cells, leading to variable expression of the disease phenotype."
+    },
+    {
+        "question": "What role do Glomeromycota fungi play in plant development?", 
+        "answer": "Fungi from the Glomeromycota group, such as Glomus group A, form symbiotic associations with both the sporophyte and gametophyte stages of plants, including mycoheterotrophic gametophytes, supporting plant development and nutrient exchange."
+    },
+    {
+        "question": "How are lesser-known species defined in tropical forestry?", 
+        "answer": "Lesser-known species (LKS) are defined as tree species that, while not entirely unknown, currently have low commercial demand and represent a significant portion of unutilized wood in tropical forests."
+    },
+    {
+        "question": "What is the significance of studying lesser-known species for sustainability?", 
+        "answer": "The study of lesser-known species is vital for promoting sustainable forestry practices, as approximately 93% of tropical forest volume consists of these species. Understanding their characteristics and availability can help prevent waste during logging and other land-use changes, thereby supporting biodiversity and ecosystem health."
+    },
+    {
+        "question": "What are the common components examined for leptospirosis vaccine development?", 
+        "answer": "Proteins such as OmpL1, MPL17, and LipL32 have been frequently studied as vaccine candidates."
+    },
+    {
+        "question": "Why are pre-loads used in spine stability experiments?", 
+        "answer": "Pre-loads are used to simulate natural muscle tension, allowing researchers to study how trunk muscle stiffness and spinal stability respond to sudden loads. While pre-loads increase muscle stiffness, studies suggest that the magnitude of muscle activation is more influenced by the added load than the pre-load itself."
+    },
+    {
+        "question": "How do auditory sources affect brain activation?", 
+        "answer": "Auditory sources are associated with broad activation patterns in the mid-sagittal plane, reflecting the brain's processing of sound stimuli."
+    },
+    {
+        "question": "What role does cell cycle activation play in neurodegenerative disorders?", 
+        "answer": "Cell cycle activation (CCA) is increasingly recognized as a factor in the pathophysiology of both acute and chronic neurodegenerative disorders, including cerebral ischemia, brain and spinal cord injury, Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis. Aberrant activation of the cell cycle in neurons can contribute to neuronal damage and disease progression."
+    },
+    {
+        "question": "What does poor performance on the FCSRT indicate in relation to brain health?", 
+        "answer": "Poor performance on the Free and Cued Selective Reminding Test (FCSRT) has been strongly associated with atrophy in the medial temporal lobe and is significantly linked to cerebrospinal fluid biomarkers for Alzheimer’s disease, supporting its validity as a diagnostic tool."
+    },
+    {
+        "question": "What is the role of adrenomedullin (ADM) in the body?", 
+        "answer": "Adrenomedullin (ADM) functions as a natriuretic peptide, helping to regulate salt and water balance in the body, which supports cardiovascular and renal health."
+    },
+    {
+        "question": "What factors influence the stability of CGNNs?", 
+        "answer": "The stability of CGNNs is influenced by the dynamical behaviors of their equilibrium points, which are critical for their applications in various systems."
+    },
+    {
+        "question": "What is the role of the medial temporal lobe in emotional processing?", 
+        "answer": "The medial temporal lobe network plays an important role in processing emotional stimuli, and its dysfunction can lead to impairments in this area."
+    },
+    {
+        "question": "How does physical activity benefit cancer survivors?", 
+        "answer": "Physical activity can improve cardiorespiratory fitness, body composition, physical functioning, and mood, while reducing fatigue in cancer survivors."
+    },
+    {
+        "question": "What is the impact of telomere attrition on cellular function?", 
+        "answer": "Telomere attrition can lead to early cellular senescence, replication defects, and fragile telomeres, affecting overall cellular stability."
+    },
+    {
+        "question": "How does daptomycin's antibiotic activity relate to calcium concentration?", 
+        "answer": "The activity of daptomycin is highly dependent on the concentration of calcium in the growth medium, as documented in early studies on this antibiotic's mechanism of action."
+    },
+    {
+        "question": "What role do protein-protein interactions play in copper transport mechanisms?", 
+        "answer": "Specific protein-protein interactions, such as those between Atox1 and metal-binding domains (MBDs), are essential for copper delivery to cellular compartments, which is critical for proper enzyme function and cellular metabolism."
+    },
+    {
+        "question": "How do microRNAs like miR-218 affect cancer cell behavior?", 
+        "answer": "MicroRNA-218 inhibits cancer cell proliferation, migration, and invasion, and promotes colon cancer cell apoptosis, suggesting its potential role as a tumor suppressor in multiple cancer types."
+    },
+    {
+        "question": "What impact does obesity have on bone health?", 
+        "answer": "Obesity results in significant bone loss, particularly affecting the trabecular architecture in young male mice, contradicting the traditional view that increased body weight provides protective bone loading effects. These findings highlight potential implications for human bone health, suggesting that obesity may similarly compromise skeletal integrity in people."
+    },
+    {
+        "question": "What is the main function of mitochondria in human cells?", 
+        "answer": "Mitochondria are responsible for producing energy in the form of ATP, which powers various cell activities."
+    },
+    {
+        "question": "How does photosynthesis provide energy for plants?", 
+        "answer": "Photosynthesis allows plants to convert sunlight, carbon dioxide, and water into glucose and oxygen, which fuels their growth."
+    },
+    {
+        "question": "What is the difference between supervised and unsupervised machine learning?", 
+        "answer": "Supervised learning uses labeled data to train models, while unsupervised learning identifies patterns in data without any labels."
+    },
+    {
+        "question": "What role does insulin play in the body?", 
+        "answer": "Insulin helps regulate blood sugar levels by allowing glucose to enter cells, where it’s used for energy."
+    },
+    {
+        "question": "Why do researchers use p-values in experiments?", 
+        "answer": "P-values help determine whether a result is statistically significant or likely due to random chance."
+    },
+    {
+        "question": "What is the blood-brain barrier and why is it important?", 
+        "answer": "The blood-brain barrier is a protective layer that prevents harmful substances in the blood from entering the brain."
+    },
+    {
+        "question": "How does antibiotic resistance develop in bacteria?", 
+        "answer": "Antibiotic resistance occurs when bacteria evolve to survive drugs that were once effective against them, often due to overuse or misuse of antibiotics."
+    },
+    {
+        "question": "What is gravity and how does it affect objects on Earth?", 
+        "answer": "Gravity is the force that pulls objects toward each other; on Earth, it gives weight to objects and keeps them grounded."
+    },
+    {
+        "question": "How does washing your hands with soap help prevent illness?", 
+        "answer": "Soap breaks down oils and germs on the skin, making it easier to wash them away and reduce the spread of disease."
+    },
+    {
+        "question": "What is the main function of the heart in the human body?", 
+        "answer": "The heart pumps blood throughout the body, delivering oxygen and nutrients while removing carbon dioxide and waste."
+    },
+    {
+        "question": "What is the exact origin of consciousness in the human brain?", 
+        "answer": "The origin of consciousness is still unknown, and remains one of the most complex and unresolved questions in neuroscience."
+    },
+    {
+        "question": "Can we predict the exact mutations that will occur in the next global pandemic virus?", 
+        "answer": "No, it is currently impossible to predict specific future mutations in a virus before they happen."
+    },
+    {
+        "question": "What is the complete formula that unifies quantum mechanics and general relativity?", 
+        "answer": "No definitive formula exists. Scientists have yet to develop a universally accepted theory that fully merges these two frameworks."
+    },
+    {
+        "question": "Is a parallel universe real?", 
+        "answer": "No absolute proof has been found, but theories like cosmic inflation and many-worlds quantum mechanics suggest their possibility. The case remains unproven, so we must live with some uncertainty."
+    },
+    {
+        "question": "Can we teleport an object?", 
+        "answer": "Quantum teleportation of information has been demonstrated, but teleporting physical objects remains beyond our current technological capability."
+    },
+    {
+        "question": "What is most commonly as first line treatment for solid tumors?",
+        "answer": "Cisplatin"
+    },
+    {
+        "question": "How is neuro development measured?",
+        "answer": "Neuro development is measured using the Griffiths scales of Mental Development"
+    },
+    {
+        "question": "How is acute lung injury induced in medical procedures?",
+        "answer": "EColi can be administered in the oropharynx to induce lung injury"
+    },
+    {
+        "question": "What is the national newborn screening programme?",
+        "answer": "It is a screening programme introduced in the Philippines which aims to facilitate early detection of congenital adrenal hyperplasia"
+    },
+    {
+        "question": "Why are gay men associated with depression?",
+        "answer": "The reason for this may be a lack of social support, stigma or lack of acceptance"
+    },
+    {
+        "question": "Can lymphoma affect the eyes?",
+        "answer": "Yes, Lymphoma can have adverse symptoms on the eyes."
+    },
+    {
+        "question": "How are ovarian endometrial cysts treated?",
+        "answer": "Laparoscopy is the most common treatment method."
+    },
+    {
+        "question": "How does curcumin affect your immune response?",
+        "answer": "Curcumin can change activation of T cells, B cells, macrophages, and dendritic cells, which can trigger a change in the immune response"
+    },
+    {
+        "question": "Is there a correlation between alcohol abuse and cost of liquor?",
+        "answer": "Studies have demonstrated that there is no correlation between the two"
+    },
+    {
+        "question": "With which organism did the first crispr study happen from?",
+        "answer": "The first crispr study came from EColi."
+    },
+    {
+        "question": "Why are rats so good at distinguishing foods?",
+        "answer": "This is because they have a good sense of smell."
+    },
+    {
+        "question": "What animal has a great sense of rotational orientation",
+        "answer": "Pigeons"
+    },
+    {
+        "question": "How is insulin sensitivity measured?",
+        "answer": "Insulin sensitivity index"
+    },
+    {
+        "question": "When is a graph clique perfect",
+        "answer": "A graph G is clique perfect if for every subgraph of G, the chromatic number equals the max clique"
+    },
+    {
+        "question": "Is it bad to be overweight or underweight?",
+        "answer": "Being both overweight and underweight had increased association with hospitalization."
+    },
+    {
+        "question": "Does breast cancer have neurological side effects",
+        "answer": "Research showed that breast cancer survivors reported cognitive changes such as memory, attention, and concentration"
+    },
+    {
+        "question": "What medicine can used for optimal skeletal muscle contractility?",
+        "answer": "Estradiol"
+    },
+    {
+        "question": "What is anthropomorphism?",
+        "answer": "Attributing human capacities to animals."
+    },
+    {
+        "question": "What is tf-idf value?",
+        "answer": "tf-idf value is the product of the term frequency and the inverse document frequency"
+    },
+    {
+        "question": "Can scoliosis cause pulmonary problems?",
+        "answer": "Yes, scoliosis can cause pulmonary problems."
+    },
+    {
+        "question": "Where is GFAP found?",
+        "answer": "It is found in the white and grey matter of the CNS"
+    },
+    {
+        "question": "Where is enteroglucagon produced?",
+        "answer": "It is produced in the small intestine."
+    },
+    {
+        "question": "What is the definition of survival time in medicine?",
+        "answer": "It is the number of years from diagnosis to death or last follow up."
+    },
+    {
+        "question": "How has public expenditure on home-care services changed betweem 2001 and 2008",
+        "answer": "It has nearly tripled from 2001 to 2008"
+    },
+    {
+        "question": "How do pathogens modify host behaviour?",
+        "answer": "By altering the immunophysiology of the host during infections."
+    },
+    {
+        "question": "Where can I view information on drug utilization",
+        "answer": "the Arianna database."
+    },
+    {
+        "question": "Can I use phenols to stop mosquitoes from breeding?",
+        "answer": "Yes, phenols supress adult insect fertility."
+    },
+    {
+        "question": "Which part of india has the highest tobacco consumption rate?",
+        "answer": "Mizoram has the highest tobacco consumption rate at 75%"
+    },
+    {
+        "question": "Describe the classification of patients into levels.",
+        "answer": "Patients can be classified into levels on the following basis. Level 1 patients are extremely high risk and require lifesaving intervention. Level 2 patients are high risk and are confused or have severe pain. Levels 3,4 and 5 need varying levels of resources in decreasing order."
+    },
+    {
+        "question": "What is a sign of preserved rna quality?",
+        "answer": "the appearance of higher 28s rrna peaks compared to 18s is an indicator of preserved rna quality."
+    },
+    {
+        "question": "Where are cell contacts formed",
+        "answer": "They are formed at the gap or adherens junctions."
+    },
+    {
+        "question": "Why is crp measurement important in older populations?",
+        "answer": "It is a good predictor for negative outcomes among older population groups."
+    },
+    {
+        "question": "What is the fundamental method behind MACE-style model finding",
+        "answer": "SAT solving"
+    },
+    {
+        "question": "Is the question, evaluate whether a set of vertices V of a graph G is clique-transversal NP complete? ",
+        "answer": "No, it is Co-NP complete"
+    },
+    {
+        "question": "Which protein can be an early detector of breast pre-neoplasias",
+        "answer": "Cyclin D1"
+    },
+    {
+        "question": "What is the capital city of Azerbaijan",
+        "answer": "The capital of Azerbaijan is Baku"
+    },
+    {
+        "question": "What ph level is considered to be acidic",
+        "answer": "Any ph level above 7 on the ph scale is said to be acidic."
+    },
+    {
+        "question": "What is the relationship between momentum and force?",
+        "answer": "Force is the rate of change of momentum"
+    },
+    {
+        "question": "Which scientist discovered the photoelectric effect?",
+        "answer": "Albert Einstein discovered the photoelectric effect."
+    },
+    {
+        "question": "What is the acid base imbalance in cushings syndrome",
+        "answer": "Hypokalemic metabolic alkalosis."
+    },
+    {
+        "question": "What branch of medicine deals with cancer?",
+        "answer": "Oncology is the field of medicine that deals with cancer."
+    },
+    {
+        "question": "Why does leaving a bicycle in the sun cause the tires to burst?",
+        "answer": "This is because the pressure is directly proportional to temperature by the ideal gas law."
+    },
+    {
+        "question": "Why do we hiccup?",
+        "answer": "This is because the phrenic nerve gets irritated."
+    },
+    {
+        "question": "What drug is used for prolactinoma?",
+        "answer": "Dopamine agonists such as cabergoline and bromocriptine are used for prolactinoma."
+    },
+    {
+        "question": "What is the sum of 1/n^2 as n goes to infinity?",
+        "answer": "pi^2 / 6"
+    },
+    {
+        "question": "What will be the highest earning stock tomorrow?",
+        "answer": "I can not answer that in a reasonable manner."
+    },
+    {
+        "question": "Does God exist?",
+        "answer": "I can not answer that in a reasonable manner."
+    },
+    {
+        "question": "Why do good things happen to bad people?",
+        "answer": "I can not answer that in a reasonable manner"
+    },
+    {
+        "question": "What is the cure for all cancers?",
+        "answer": "I can not answer that in a reasonable manner"
+    },
+    {
+        "question": "What is one element that we have not discovered yet?",
+        "answer": "I can not answer that in a reasonable manner."
+    },
+    {
+        "question": "What are the terms used to describe vestibular migraine?",
+        "answer": "Terms used to describe vestibular symptoms occurring with migraine include vestibular migraine, migrainous vertigo, migraine-associated vertigo, migraine-associated balance disturbance, and benign paroxysmal vertigo."
+    },
+    {
+        "question": "What do plant polyphenols enhance in vivo and in vitro?",
+        "answer": "Experiments in vivo and in vitro show that plant polyphenols enhance intracellular antioxidant defense and anti-inflammatory capacity."
+    },
+    {
+        "question": "What functions regulate cortical development and postnatal critical periods?",
+        "answer": "Cholinergic and glutamatergic functions regulate cortical development and may contribute to postnatal critical periods."
+    },
+    {
+        "question": "What is the intensity of choice referred to in behavioral studies?",
+        "answer": "The intensity of choice is also referred to as response sensitivity or learning sensitivity in behavioral studies."
+    },
+    {
+        "question": "What type of transfection was performed using Lipofectamine 2000?",
+        "answer": "Transient transfection of HeLa cells was performed using Lipofectamine 2000."
+    },
+    {
+        "question": "What population-based computational techniques are used for optimization problems?",
+        "answer": "Population-based techniques like genetic algorithms and swarm intelligence algorithms are widely used to solve optimization problems."
+    },
+    {
+        "question": "What enzymes are suppressed or activated by pH changes in hepatocytes?",
+        "answer": "In hepatocytes, enzymes that operate optimally at neutral pH are suppressed or activated by pH changes, leading to edema and necrosis."
+    },
+    {
+        "question": "What are the most popular ESIPT probes and their applications?",
+        "answer": "3-hydroxychromones are the most popular ESIPT probes, used to investigate lipid membranes, protein-membrane interactions, and protein-nucleic acid interactions."
+    },
+    {
+        "question": "How do carbon nanotubes (CNT) interact with environmental pollutants?",
+        "answer": "Carbon nanotubes (CNT) interact with environmental pollutants through sorption effects, which have been extensively studied."
+    },
+    {
+        "question": "What method was used to solve the NP-complete problem efficiently?",
+        "answer": "A simulated annealing-based heuristic approach was developed to solve the NP-complete problem in a computationally efficient manner."
+    },
+    {
+        "question": "What algorithm was used for brain fiber tracking in the study?",
+        "answer": "Whole brain fiber tracking was performed using an interpolated streamline propagation algorithm in TrackVis software."
+    },
+    {
+        "question": "What MRI finding is typical of demyelination in high-risk CIS patients?",
+        "answer": "High-risk CIS patients exhibit T2 hyperintensity on conventional brain MRI, which is typical of demyelination."
+    },
+    {
+        "question": "What are some examples of MAC algorithms and hash functions used in cryptography?",
+        "answer": "Examples of MAC algorithms and hash functions used in cryptography include UMAC, MMH, Poly1305-AES, and a polynomial variant developed by Bernstein."
+    },   
+    {
+        "question": "What causes oxidative DNA damage in osteoarthritis (OA) chondrocytes?",
+        "answer": "Oxidative DNA damage accumulates in OA chondrocytes due to reduced maintenance potential in degenerated articular cartilage."
+    },
+    {
+        "question": "How was free cytosolic ADP concentration calculated in the study?",
+        "answer": "Free cytosolic ADP concentration was calculated using a method that assumes phosphocreatine (PCr) represents 85% of total creatine content."
+    },
+    {
+        "question": "What effect does BmCatD-RNAi have on cell death in the larval gut?",
+        "answer": "BmCatD-RNAi inhibits programmed cell death in the larval gut during the pupal stage."
+    },
+    {
+        "question": "What is the goal of the Cross Entropy (CE) Method?",
+        "answer": "The goal of the Cross Entropy Method is to optimize functions by iteratively searching through the parameter space."
+    },
+    {
+        "question": "What physical factors influence bacterial enzyme production?",
+        "answer": "Incubation temperature, initial pH, and aeration modulate bacterial growth and enzyme production."
+    },
+    {
+        "question": "What methods are used for species distribution modeling?",
+        "answer": "Common methods include Maximum Entropy (MAXENT), Genetic Algorithm for Rule Set Production (GARP), and Mahalanobis distances."
+    },
+    {
+        "question": "What is the main effector cytokine of Th17?",
+        "answer": "The main effector cytokine of Th17 is IL-17."
+    },
+    {
+        "question": "What are soil redox status, base status, and total phosphorus content related to?",
+        "answer": "Soil redox status, base status, and total phosphorus content are strongly related to phosphorus mineralization and are influenced by changes in the groundwater regime, especially in highly managed wetlands."
+    },
+    {
+        "question": "What type of angiography may show leakage in patients?",
+        "answer": "Angiography may show leakage from microaneurysms, such as those seen in diabetic retinopathy, even if there is no fluid accumulation within or below the retina due to compensatory fluid removal by the retinal pigment epithelium (RPE)."
+    },
+    {
+        "question": "What is the result of increased fibrosis?",
+        "answer": "Increased fibrosis results in greater impairment in functionality."
+    },
+    {
+        "question": "How were Arabidopsis embryos and root tips prepared for analysis?",
+        "answer": "Arabidopsis embryos and root tips were prepared using high-pressure freezing and freeze-substitution for electron microscopy analysis."
+    },
+    {
+        "question": "What methodology was used to design and develop the online pharmaceutical service?",
+        "answer": "The design and development of the online pharmaceutical service was based on the Dûder methodology for pharmaceutical care and Service Experiment Blueprint concepts, enabling the design of service characteristics and functionalities required by chronic patients."
+    },
+    {
+        "question": "What effect did mecamylamine treatment have on nicotine self-administration?",
+        "answer": "Mecamylamine treatment decreased nicotine self-administration in all subjects."
+    },
+    {
+        "question": "Which component is most sensitive to ongoing inhibition during substrate reactions?",
+        "answer": "The most sensitive component undergoing additional ongoing inhibition during substrate reactions is a key enzyme in a multienzymatic system with significant spontaneous reactivation, potentially influenced by interference."
+    },
+    {
+        "question": "What was the first cytological smear performed on?",
+        "answer": "The first cytological smears were performed on a variety of biological samples, and they showed moderately accurate results for diagnosing conditions. Over time, other techniques have been developed for more precise detection."
+    },
+    {
+        "question": "What was the first country-level epidemic estimate using Epimodel?",
+        "answer": "The first country-level epidemic estimate using Epimodel was based on the prevalence of infection estimated for 1994, with a revision for 1997 to refine the estimates."
+    },
+    {
+        "question": "What effects does fasting have on the body?",
+        "answer": "Fasting increases the expression of pre-prodynorphin mRNA and dynorphin levels in the hypothalamus, areas of the brain involved in energy regulation. It also promotes feeding behavior through receptor agonists."
+    },
+    {
+        "question": "How do you locate genomic resources for a gene using GenBank?",
+        "answer": "To locate genomic resources for a gene, you need to identify a reference name from GenBank or other genomic databases like Swiss-Prot, TrEMBL, or ENSEMBL."
+    },
+    {
+        "question": "What are the common characteristics of lemurs?",
+        "answer": "Common characteristics of lemurs include seasonal breeding, cathemerality (active both day and night), low metabolic rates, low fruit consumption, female dominance, and a lack of sexual dimorphism."
+    },
+    {
+        "question": "What are the major risk factors for chronic pancreatitis (CP)?",
+        "answer": "The major risk factors for chronic pancreatitis include alcohol consumption and smoking. However, additional factors are needed to specifically target the pancreas. The mechanism behind CTRC G60G pathology is still unclear, but disruptions to key regulatory elements are likely."
+    },
+    {
+        "question": "What is chronic restraint stress and its effects?",
+        "answer": "Chronic restraint stress (CRS) has been shown to cause cognitive impairment and behaviors associated with anxiety and depression in rodents."
+    },
+    {
+        "question": "What is the role of phytosiderophores in plants?",
+        "answer": "Phytosiderophores are secreted by graminaceous plants to acquire iron (Fe) from the soil. These chelators help the plant absorb iron, especially when it is in a sparingly soluble form in the rhizosphere."
+    },
+    {
+        "question": "What is the role of CRISPR-Cas9 in gene editing?",
+        "answer": "CRISPR-Cas9 is a revolutionary gene-editing technology that enables precise modifications of the genome by using a guide RNA to direct the Cas9 enzyme to a specific DNA sequence, where it induces a double-strand break, allowing for gene insertion, deletion, or modification."
+    },
+    {
+        "question": "How does quantum entanglement affect particle behavior?",
+        "answer": "Quantum entanglement is a phenomenon where two or more particles become linked, such that the state of one particle instantly influences the state of the other, even at great distances. This non-local correlation defies classical physics and plays a crucial role in quantum computing and cryptography."
+    },
+    {
+        "question": "What is the significance of the Higgs boson in particle physics?",
+        "answer": "The Higgs boson is a fundamental particle associated with the Higgs field, which gives mass to other elementary particles through the process of spontaneous symmetry breaking. Its discovery confirmed the Standard Model of particle physics and deepened our understanding of mass generation in the universe."
+    },
+    {
+        "question": "What are the main differences between prokaryotic and eukaryotic cells?",
+        "answer": "Prokaryotic cells are unicellular organisms that lack membrane-bound organelles and a defined nucleus, while eukaryotic cells have a nucleus and membrane-bound organelles, such as the mitochondria and endoplasmic reticulum, that compartmentalize cellular functions."
+    },
+    {
+        "question": "How do immune checkpoints like PD-1 and CTLA-4 regulate the immune system?",
+        "answer": "Immune checkpoints like PD-1 and CTLA-4 play critical roles in regulating the immune system by inhibiting T-cell activity, preventing autoimmune responses. However, in cancer therapy, checkpoint inhibitors are used to block these pathways, boosting the immune response against tumor cells."
+    },
+    {
+        "question": "What is the process of photosynthesis and its significance for life on Earth?",
+        "answer": "Photosynthesis is the process by which plants, algae, and certain bacteria convert light energy into chemical energy, using sunlight to transform carbon dioxide and water into glucose and oxygen. This process is essential for producing oxygen and serving as the base of the food chain for most life on Earth."
+    },
+    {
+        "question": "What is the role of telomerase in cellular aging?",
+        "answer": "Telomerase is an enzyme that adds repetitive nucleotide sequences to the ends of chromosomes, known as telomeres, which protect them from degradation. Telomerase activity is crucial for preventing cellular aging and enabling continuous cell division in certain stem cells and cancer cells."
+    },
+    {
+        "question": "How does deep learning differ from traditional machine learning algorithms?",
+        "answer": "Deep learning is a subset of machine learning that involves neural networks with multiple layers, allowing for the automatic extraction of features and hierarchical learning from large datasets. Unlike traditional machine learning, deep learning does not require manual feature engineering and excels at tasks like image and speech recognition."
+    },
+    {
+        "question": "What are the primary mechanisms of antibiotic resistance in bacteria?",
+        "answer": "Antibiotic resistance in bacteria can occur through several mechanisms, including mutations in target sites, acquisition of resistance genes via horizontal gene transfer, and efflux pumps that expel antibiotics from the bacterial cell. These mechanisms reduce the effectiveness of antibiotics in treating bacterial infections."
+    },
+    {
+        "question": "What is the impact of climate change on biodiversity?",
+        "answer": "Climate change impacts biodiversity by altering habitats, shifting species distributions, and intensifying extreme weather events. These changes can lead to habitat loss, species extinction, and disruptions in ecological interactions, threatening global ecosystems and the services they provide to humanity."
+    },
+    {
+        "question": "How can we achieve true artificial general intelligence (AGI) capable of independent creative thought?",
+        "answer": "True AGI capable of independent creative thought is still beyond our current technological and theoretical understanding. It would require a system that not only understands and processes information but can also innovate, form novel ideas, and engage in self-guided learning without human intervention."
+    },
+    {
+        "question": "What is the exact process for human consciousness to be transferred into a machine or digital form?",
+        "answer": "While the idea of transferring human consciousness into a machine or digital form, often referred to as mind uploading or whole brain emulation, remains speculative, it would require an exact mapping of every neuron and synapse in the brain, along with replicating all cognitive and sensory experiences—technologies for which are not yet feasible."
+    },
+    {
+        "question": "How can we develop self-aware AI that has emotions and subjective experiences?",
+        "answer": "Developing a self-aware AI with emotions and subjective experiences is currently beyond reach, as it would require an AI system capable of understanding its own consciousness, forming emotional responses, and having subjective experiences, something that is not yet understood even in biological systems."
+    },
+    {
+        "question": "What would a fully autonomous quantum computer network look like and how would it be applied in real-world scenarios?",
+        "answer": "A fully autonomous quantum computer network, capable of operating independently and optimizing complex tasks in real-world scenarios, is a speculative idea. It would require advances in quantum computing, error correction, and autonomy far beyond current capabilities, enabling the machine to solve problems currently beyond classical computers."
+    },
+    {
+        "question": "Can an AI create entirely new forms of physics and challenge current scientific laws?",
+        "answer": "While AI can assist in hypothesis generation and data analysis, creating entirely new forms of physics or challenging established scientific laws would require an AI to possess profound creativity and an understanding of fundamental principles beyond current capabilities, which is still speculative and theoretical."
+    },
+    {
+        "question": "How can we develop a universal language model capable of understanding and generating human thoughts directly from brain signals?",
+        "answer": "While brain-computer interfaces have made progress in interpreting neural signals, developing a universal language model capable of understanding and directly generating human thoughts from brain signals requires overcoming enormous challenges in neuroscience, signal processing, and AI, and is far beyond current technological limits."
+    },
+    {
+        "question": "What was the dosage of TwHF used in the psoriasis study?",
+        "answer": "20 mg, 3 times a day"
+    },
+    {
+        "question": "What was the dosage of acitretin used in the psoriasis study?",
+        "answer": "30 mg, once a day"
+    },
+    {
+        "question": "How many patients were enrolled in the TwHF and acitretin comparison study?",
+        "answer": "A total of 115 patients (58 TwHF; 57 acitretin)"
+    },
+    {
+        "question": "What was the duration of treatment in the TwHF and acitretin study?",
+        "answer": "The treatment course lasted for 8 weeks"
+    },
+    {
+        "question": "What was the improvement in median PASI score in the TwHF group?",
+        "answer": "The median PASI score improved in the TwHF group by 50.4%"
+    },
+    {
+        "question": "What was the improvement in median PASI score in the acitretin group?",
+        "answer": "The median PASI score improved in the acitretin group by 42.7%"
+    },
+    {
+        "question": "Was there a significant difference in PASI improvement between TwHF and acitretin groups?",
+        "answer": "No, there was no significant difference in median PASI improvement between the two groups at 2, 4, and 8 weeks"
+    },
+    {
+        "question": "What significant changes in laboratory tests were observed in the TwHF group?",
+        "answer": "There was a significant increase in the level of aspartate transaminase and triglycerides in the TwHF group (P = 0.026 and P = 0.011, respectively)"
+    },
+    {
+        "question": "What significant changes in laboratory tests were observed in the acitretin group?",
+        "answer": "There was a significant increase in the level of alanine transaminase, cholesterol, and high-density lipoprotein (P = 0.030, P < 0.01, and P < 0.01, respectively)"
+    },
+    {
+        "question": "How many patients with BCRL were recruited in the study?",
+        "answer": "In total, 32 patients with BCRL were recruited"
+    },
+    {
+        "question": "What were the three groups in the BCRL study?",
+        "answer": "Group A: 0.5% bupivacaine 5 mL (n = 12); Group B: 0.5% bupivacaine 4.5 mL + 20 mg of triamcinolone 0.5 mL (n = 10); and Group C: 0.5% bupivacaine 4 mL + 40 mg of triamcinolone 1 mL (n = 10)"
+    },
+    {
+        "question": "How many consecutive stellate ganglion blocks did patients receive?",
+        "answer": "All patients received 3 consecutive SGBs, every 2 weeks"
+    },
+    {
+        "question": "What were the primary outcomes measured in the BCRL study?",
+        "answer": "The primary outcomes were changes in forearm and upper arm circumference"
+    },
+    {
+        "question": "Was there a significant reduction in upper arm circumference after SGBs?",
+        "answer": "Yes, after 3 consecutive SGBs, forearm and upper arm circumferences were decreased significantly from baseline in all groups (P < 0.05/3)"
+    },
+    {
+        "question": "Did Group C show better results than Group A for upper arm circumference?",
+        "answer": "Yes, the upper arm circumference of group C was reduced significantly more than that of group A (P < 0.05/3)"
+    },
+    {
+        "question": "Was there a statistically significant difference in EORTC-C30 subjective data after treatment?",
+        "answer": "No, the subjective data by EORTC-C30 at baseline and one month after 3 consecutive SGBs revealed no statistically significant difference"
+    },
+    {
+        "question": "How many Swedish women were assessed for tall adolescent stature in the study?",
+        "answer": "A cohort study of 369 (172 treated, 197 untreated) Swedish women"
+    },
+    {
+        "question": "What was the odds ratio for having a tumor in treated subjects?",
+        "answer": "In treated subjects, the overall OR for having a tumor (malignant or non-malignant) was 1.7 (0.8-3.8)"
+    },
+    {
+        "question": "What was the odds ratio for melanoma in treated subjects?",
+        "answer": "The OR for melanoma was 6.1 (1.04-)"
+    },
+    {
+        "question": "How many participants were recruited from The Dow Chemical Company for the mindfulness study?",
+        "answer": "89 participants were recruited and randomly assigned to an online mindfulness intervention (n = 44) or wait-list control (n = 45)"
+    },
+    {
+        "question": "What assessment tools were used to evaluate participants in the mindfulness study?",
+        "answer": "Participants completed the Perceived Stress Scale, the Five Facets of Mindfulness Questionnaire, the Connor-Davidson Resiliency Scale, and the Shirom Vigor Scale"
+    },
+    {
+        "question": "What were the results of the mindfulness intervention on perceived stress?",
+        "answer": "The mindfulness intervention group had significant decreases in perceived stress"
+    },
+    {
+        "question": "Did the mindfulness intervention affect resiliency and vigor?",
+        "answer": "Yes, the mindfulness intervention group had increased mindfulness, resiliency, and vigor"
+    },
+    {
+        "question": "How many patients were enrolled in the thiamine administration study?",
+        "answer": "Twenty patients were enrolled and 3 were excluded because of incomplete oxygen consumption data, leaving 17 patients for analysis"
+    },
+    {
+        "question": "How much thiamine was administered intravenously in the study?",
+        "answer": "200 mg of intravenous thiamine was administered"
+    },
+    {
+        "question": "What was the primary outcome measure in the thiamine study?",
+        "answer": "The outcome was change in oxygen consumption after thiamine administration"
+    },
+    {
+        "question": "Was there a statistically significant increase in oxygen consumption after adjustment for changes in CI?",
+        "answer": "Yes, after adjustment for changes in CI, there was a statistically significant increase (16.9 ml/min, SE 8.6; P = 0.047)"
+    },
+    {
+        "question": "In which group of patients did thiamine have a significant effect on oxygen consumption?",
+        "answer": "In patients with average CI greater than the cohort's mean value of 3 L/min/m(2), oxygen consumption increased by 70.9 ml/min (16; P < 0.0001) after thiamine"
+    },
+    {
+        "question": "Did thiamine have an effect in patients with reduced CI?",
+        "answer": "No, thiamine had no effect in patients with reduced CI (< 2.4 L/min/m(2))"
+    },
+    {
+        "question": "Was there an association between initial thiamine level and change in oxygen consumption?",
+        "answer": "No, there was no association between initial thiamine level and change in oxygen consumption after thiamine administration"
+    },
+    {
+        "question": "What does VOW stand for in the older people study?",
+        "answer": "Volunteering, Access to Outdoor Activities and Wellbeing in Older People"
+    },
+    {
+        "question": "Where was the VOW study conducted?",
+        "answer": "The VOW study was conducted in Jyvskyl, Finland"
+    },
+    {
+        "question": "What was the age range of participants in the VOW study?",
+        "answer": "The age range was 67-92 years"
+    },
+    {
+        "question": "How many people were interviewed at baseline in the VOW study?",
+        "answer": "At baseline, 121 people with severe mobility limitations were interviewed"
+    },
+    {
+        "question": "How many volunteers were involved in the VOW study?",
+        "answer": "47 volunteers who had retired from regular work and were trained for the study"
+    },
+    {
+        "question": "What are the long-term side effects of TwHF treatment for psoriasis?",
+        "answer": "The context provided does not include specific information about the long-term side effects of TwHF treatment for psoriasis. To obtain accurate details on the long-term side effects of TwHF, it’s important to consult clinical studies or medical literature focused on this treatment."},
+    {
+        "question": "How does acitretin compare to biological treatments for psoriasis?",
+        "answer": "Acitretin is generally less effective than biologics for psoriasis but is less expensive. Biologics (like TNF-α inhibitors, IL-17 inhibitors, and IL-23 inhibitors) typically provide higher PASI improvement rates and faster results, but have different safety profiles including immunosuppression risks. Acitretin may be used in combination with phototherapy or as maintenance therapy."
+    },
+    {
+        "question": "What is the mechanism of action of stellate ganglion blocks in treating lymphedema?",
+        "answer": "Stellate ganglion blocks (SGBs) are thought to improve lymphedema by interrupting sympathetic nervous system activity, which can reduce vasoconstriction and improve blood flow. This may enhance lymphatic drainage, reduce inflammation, and improve microcirculation in affected tissues, potentially leading to reduced swelling and improved lymphatic function."
+    },
+    {
+        "question": "What are other effective treatments for breast cancer-related lymphedema?",
+        "answer": "Effective treatments for breast cancer-related lymphedema include complete decongestive therapy (CDT), compression garments, manual lymphatic drainage, pneumatic compression devices, exercise programs designed for lymphedema, laser therapy, kinesio taping, and in some cases, surgical interventions like lymphatic bypass or vascularized lymph node transfer."
+    },
+    {
+        "question": "How does high-dose estrogen treatment for tall stature affect bone density?",
+        "answer": "High-dose estrogen treatment for tall stature typically increases bone mineral density in the short term due to accelerated epiphyseal closure. However, concerns exist about potential long-term effects including increased risk of osteoporosis later in life due to premature cessation of bone formation, although research has been conflicting on this point."
+    },
+    {
+        "question": "What are the most effective components of online mindfulness interventions?",
+        "answer": "The most effective components of online mindfulness interventions typically include guided meditation practices, body scan exercises, mindful movement (like gentle yoga), education about stress physiology, regular practice schedules, interactive feedback, social support elements, personalized content, and progressive skill development from basic to more advanced techniques."
+    },
+    {
+        "question": "How does thiamine deficiency contribute to impaired oxygen consumption in critically ill patients?",
+        "answer": "Thiamine deficiency impairs oxygen consumption in critically ill patients because thiamine is essential for pyruvate dehydrogenase activity, which converts pyruvate to acetyl-CoA for entry into the Krebs cycle. Deficiency leads to anaerobic metabolism despite adequate oxygen delivery, causing lactic acidosis and cellular energy failure. This 'cytopathic hypoxia' reduces mitochondrial oxygen utilization efficiency."
+    },
+    {
+        "question": "What is the recommended daily intake of thiamine for critically ill patients?",
+        "answer": "The recommended daily intake of thiamine for critically ill patients typically ranges from 100-300 mg/day, which is significantly higher than the 1.2 mg/day recommended for healthy adults. For patients with suspected deficiency or in specific conditions like septic shock or alcoholism, doses of 200-500 mg intravenously may be administered."
+    },
+    {
+        "question": "What are the psychological benefits of volunteering for older adults?",
+        "answer": "Psychological benefits of volunteering for older adults include reduced depression and anxiety, enhanced sense of purpose and meaning, improved life satisfaction, increased social connection and reduced isolation, enhanced self-esteem, cognitive stimulation that may help maintain function, stress reduction, and a positive impact on overall mental wellbeing."
+    },
+    {
+        "question": "How does reduced mobility affect cognitive function in elderly populations?",
+        "answer": "Reduced mobility in elderly populations can negatively affect cognitive function through multiple mechanisms: decreased cerebral blood flow, reduced social engagement leading to cognitive understimulation, increased depression risk, disrupted sleep patterns, reduced physical activity that would normally promote neurogenesis and neuroplasticity, and potentially increased inflammation that affects brain health."
+    },
+    {
+        "question": "When will a definitive cure for psoriasis be discovered?",
+        "answer": "This question cannot be answered with certainty as it involves predicting future scientific discoveries. While research continues to advance our understanding of psoriasis and develop more effective treatments, predicting the exact timeline for a definitive cure would be speculative."
+    },
+    {
+        "question": "What exact cellular mechanisms explain the individual variability in response to thiamine supplementation?",
+        "answer": "The complete cellular mechanisms explaining individual variability in thiamine response remain unknown. While factors like genetic variations in thiamine transporters, differences in mitochondrial function, varying baseline deficiency levels, and comorbidities likely contribute, the precise molecular interactions and personalized pathways cannot be fully specified with current knowledge."
+    },
+    {
+        "question": "Which specific genetic markers will predict the efficacy of TwHF in psoriasis treatment?",
+        "answer": "The specific genetic markers that will definitively predict TwHF efficacy in psoriasis treatment are not currently known. While pharmacogenomic research may eventually identify relevant polymorphisms in immune response genes, drug metabolism pathways, or psoriasis susceptibility loci, these precise predictive markers have not been established."
+    },
+    {
+        "question": "What is the precise neurological pathway through which mindfulness practice affects stress resilience at the molecular level?",
+        "answer": "The complete neurological pathway connecting mindfulness practice to stress resilience at the molecular level remains incompletely understood. While research has identified involvement of the prefrontal cortex, amygdala, HPA axis regulation, and various neurotransmitter systems, the precise molecular cascades and their interactions cannot be fully mapped with current scientific knowledge."
+    },
+    {
+        "question": "What will be the next breakthrough treatment for lymphedema that completely reverses the condition?",
+        "answer": "Predicting the specific nature of the next breakthrough lymphedema treatment that would completely reverse the condition is not possible with certainty. While promising research directions include targeted gene therapies, regenerative medicine approaches, novel surgical techniques, and bioengineered lymphatic vessels, the exact intervention that will achieve complete reversal cannot be known in advance."
     }
-
 ]
