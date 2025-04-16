@@ -20,7 +20,7 @@ def get_system_message():
             "You will be provided with a question and a set of scientific papers. "
             "Your task is to answer the question based on the provided papers. "
             "If the information is not present in the papers, provide a general response. "
-            "If the information is present, provide a detailed answer. "
+            "If the information is present, synthesize the relevant content from the papers to provide a detailed, evidence-based answer."
             "Be concise and clear in your response. "
             "Example 1:\n"
             "Question: What is the effect of climate change on coral reefs?\n"
