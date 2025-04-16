@@ -1,11 +1,11 @@
-from .llm import LLM
-from .messages import Messages
-from .parser import LLMParser
+from llm.llm import LLMEngine
+from routing.messages import Messages
+from routing.parser import LLMParser
 
 class Router:
     def __init__(self, question):
         self.question = question
-        self.llm = LLM()
+        self.llm = LLMEngine()
         self.parser = LLMParser()
 
     def route(self):

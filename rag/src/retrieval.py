@@ -4,32 +4,29 @@ import faiss
 from openai import OpenAI
 import os
 import sys
+
 project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.append(project_root)
-# from routing.router import Router
-# from .llm import LLM
+
+from llm.llm import LLMEngine
 from routing.router import Router
 import pandas as pd
 
-MODEL = "text-embedding-3-small"
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = LLMEngine()
 
 def get_query_embedding(query_text):
         # Convert a text query to embedding using OpenAI's model
         try:
-            response = client.embeddings.create(
-                input=query_text,
-                model=MODEL
-            )
-            return np.array([response.data[0].embedding]).astype('float32')
+            response = client.generate_embeddings(query_text)
+            response = np.array([response.data[0].embedding]).astype('float32')
+            return response
         except Exception as e:
             print(f"Error generating query embedding: {e}")
             raise
 
 def retrieve(query, top_k=5):
     # Path to the FAISS index and processed CSV file
-    embeddings_folder = os.path.join('..', 'data', 'embeddings')
+    embeddings_folder = os.path.join(project_root, 'rag', 'data', 'embeddings')
     index_path = os.path.join(embeddings_folder, 'faiss_index.idx')
     data_path = os.path.join(embeddings_folder, 'processed_data.csv')
 

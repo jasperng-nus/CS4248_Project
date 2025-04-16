@@ -5,21 +5,25 @@ import os
 from openai import OpenAI
 import faiss
 
+import sys
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(project_root)
+
+from llm.llm import LLMEngine
+
 # --- Configuration ---
 BATCH_SIZE = 100
 MODEL = "text-embedding-3-small"
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 def load_scicite():
     scicite_sentences = []
-    path_to_data = os.path.join('..', '..', 'cleaning', 'AugmentedData', 'augmented_data.jsonl')
+    path_to_data = os.path.join(project_root, 'cleaning', 'AugmentedData', 'augmented_data.jsonl')
 
-    # with open(path_to_data, 'rb') as f:
-    #     content = f.read()
-    #     print(content[3680:3700])
-    with open(path_to_data, "r", encoding='utf-8') as f:
+    with open(path_to_data, "r", encoding='utf-8') as f: 
         for line in f:
-          scicite_sentences.append(json.loads(line))
+            scicite_sentences.append(json.loads(line))
+          
+
     return pd.DataFrame(scicite_sentences)
 
 def preprocess_sentence(df):
@@ -35,25 +39,25 @@ def preprocess_sentence(df):
 
 def generate_embeddings(df):
     all_embeddings = []
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = LLMEngine()
 
     for i in range(0, len(df), BATCH_SIZE):
         batch = df['text_for_embeddings'][i:i+BATCH_SIZE].tolist()
         
         try:
-            response = client.embeddings.create(
-                input=batch,
-                model=MODEL
+            response = client.generate_embeddings(
+                query_text=batch,
+                model=MODEL,
             )
             batch_embeddings = [item.embedding for item in response.data]
             all_embeddings.extend(batch_embeddings)
 
         except Exception as e:
-            print("Error generating embeddings for batch {i}")
+            print(e)
+            print(f"Error generating embeddings for batch {i}")
 
     embeddings = np.array(all_embeddings).astype('float32')
-    # Store embeddings locally for future reference
-    path_to_folder = os.path.join('..', 'data', 'embeddings')
+    path_to_folder = os.path.join(project_root, 'rag', 'data', 'embeddings')
     np.save(os.path.join(path_to_folder, 'augmented_data_embeddings.npy'), embeddings)
     
     return embeddings
@@ -64,18 +68,18 @@ def store_embeddings(embeddings):
     faiss_structure = faiss.IndexFlatL2(dimension)
     faiss_structure.add(embeddings)
     # Save FAISS database
-    faiss.write_index(faiss_structure, os.path.join(os.path.join('..', 'data', 'embeddings'), 'faiss_index.idx'))
+    faiss.write_index(faiss_structure, os.path.join(project_root, 'rag', 'data', 'embeddings', 'faiss_index.idx'))
 
 def run_pipeline():
     df = load_scicite()
     df = preprocess_sentence(df)
 
     # Save the processed data for retrieval
-    df.to_csv(os.path.join(os.path.join('..', 'data', 'embeddings'), 'augmented_data.csv'), index=False)
+    df.to_csv(os.path.join(project_root, 'rag', 'data', 'embeddings','processed_data.csv'), index=False)
 
     # Generate embeddings, then store them and build the FAISS index
     embeddings = generate_embeddings(df)
-    augmented_embeddings_filepath = os.path.join(os.path.join('..', 'data', 'embeddings'), 'augmented_data_embeddings.npy')
+    augmented_embeddings_filepath = os.path.join(project_root, 'rag', 'data', 'embeddings', 'augmented_data_embeddings.npy')
     embeddings = np.load(augmented_embeddings_filepath) 
     store_embeddings(embeddings)
 
