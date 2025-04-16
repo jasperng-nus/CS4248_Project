@@ -2,24 +2,23 @@ import os
 from openai import OpenAI
 import pandas as pd
 import sys
-
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
-from retrieval import retrieve
+from rag.src.retrieval import retrieve
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GENERATION_MODEL = "gpt-4o-mini"
 SIMILARITY_SCORE_THRESHOLD = 0.2
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-def generate_answer(query, top_k=5):
+def generate_answer(query, top_k=5, rag=True):
 
     results = retrieve(query, top_k)
-    generated_answer = determine_model_output(results)
+    generated_answer = determine_model_output(results, query) if rag else determine_model_output_norag(query)
     return generated_answer
 
-def determine_model_output(results):
+def determine_model_output(results, query):
 
     answer = ""
     similarityScoreList = results["similarity_score"].tolist()
@@ -56,6 +55,22 @@ def determine_model_output(results):
     answer += response.output_text
     return answer
 
+
+def determine_model_output_norag(query):
+
+    answer = ""
+    prompt = (
+        f"Answer the following question generally: \n\n"
+        f"Question: {query}\n"
+        f"Answer:"
+    )
+
+    response = client.responses.create(
+        model=GENERATION_MODEL,
+        input=prompt
+    )
+    answer += response.output_text
+    return answer
 
 if __name__ == "__main__":
     # query = "What are the effects of climate change on coral reefs?"
