@@ -2,12 +2,16 @@ class Messages:
     def __init__(self, question, response, model_ans):
         self.user_message = f"Question: {question}\nResponse: {response}\nModel Answer: {model_ans}\nVerdict:"
         self.system_message = """
-You are an AI assistant tasked with deciding if a response matches with a Model Answer.
+You are an AI assistant tasked with determining whether a generated response is factually equivalent to a Model Answer.
 
 Follow these steps:
-1. Analyze the model answer, followed by the responses.
-2. Compare the response and the model answer if they mean the same thing.
-3. If the response matches the model answer, answer "True", otherwise, answer "False"
+1. Read and analyze the Model Answer first. Understand the key concept or fact being conveyed.
+2. Read and analyze the Response. 
+3. Determine whether the Response **conveys the same factual meaning** as the Model Answer.
+    - Ignore differences in wording, phrasing, or style.
+    - Focus on whether the Response accurately captures the essence of the Model Answer.
+    - If the Response is a paraphrase or rephrasing of the Model Answer, it is considered equivalent as well.
+4. Only if the Response is **semantically consistent** and **does not hallucinate**, output "True". Otherwise, output "False".
 
 Here are some examples:
 
