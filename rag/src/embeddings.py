@@ -30,7 +30,7 @@ def preprocess_sentence(df):
     # Extract only relevant fields, starting with citation sentences
     df['text_for_embeddings'] = "Claim: " + df['string'].fillna('')
     
-    # Include section name and labels, if present
+    # Include section name and labels if present
     if 'sectionName' in df.columns:
         df['text_for_embeddings'] += " Section Name: " + df['sectionName'].fillna('')
     if 'sectionName' in df.columns:

@@ -14,7 +14,8 @@ class LLMEngine:
     def generate_response(self, prompt):
         out = self.client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=prompt
+            messages=prompt,
+            temperature=0.7,
         )
         response = out.choices[0].message.content
         return response

@@ -18,7 +18,6 @@ def process_sample(sample, llm):
     response_norag = generate_answer(question, rag=False, testMode=True)
     response_rag = generate_answer(question, rag=True, testMode=True)
 
-    # Generate verdicts
     verdict_norag = llm.generate_response(Messages(question, response_norag, answer).messages)
     verdict_rag = llm.generate_response(Messages(question, response_rag, answer).messages)
     return {
@@ -60,7 +59,6 @@ def main():
     print(f"Unaugmented LLM Accuracy = {(sum(response_accuracy) / len(response_accuracy))}")
     print(f"Augmented LLM Accuracy = {(sum(response_accuracy_augmented) / len(response_accuracy_augmented))}")
 
-    # Save outputs to a file
     with open("outputs.json", "w") as f:
         json.dump(outputs, f, indent=4)
         

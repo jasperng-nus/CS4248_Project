@@ -38,13 +38,10 @@ def retrieve(query, top_k=5):
     router = Router(query)
     predicted_label = router.route()
 
-    # Create an augmented query that includes the predicted label.
-    # This helps in generating an embedding with a similar context as your preprocessed data.
     augmented_query = f"Claim: {query} Classification Label: {predicted_label}"
     query_embedding = get_query_embedding(augmented_query)
 
     # Search FAISS index for top_k results
-    # distances: the Euclidean distances between the query and the top-k results
     distances, indices = index.search(query_embedding, top_k)
     # Retrieves the rows from the DataFrame corresponding to the indices 
     # obtained from the FAISS search
