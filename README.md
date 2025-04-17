@@ -133,10 +133,12 @@ python rag/src/generation.py --question "What cells are modulated by the immunom
 ```
 
 **Example output:**
-> **Answer:** "The RAG has referenced claims from the following papers:
+```
+**Answer:** "The RAG has referenced claims from the following papers:
 1. Furthermore, curcumin has been shown to be a potent immunomodulatory agent that can modulate the activation of T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells (Allam 2009). (Claim obtained from Citing Paper ID: af0fea7198d70421a86e0fa65e31bcc56803de5a. Similarity Score: 0.38)
 
 Curcumin has been shown to modulate the activation of T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells."
+```
 
 ---
 ## References
