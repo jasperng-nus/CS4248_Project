@@ -142,16 +142,39 @@ Curcumin has been shown to modulate the activation of T cells, B cells, macropha
 ## References
 
 1. Thorp, H.H. (2023). _ChatGPT is fun, but not an author._ Science, 379(6630), 313.  
-   https://doi.org/10.1126/science.adg7879  
+   [https://doi.org/10.1126/science.adg7879](https://doi.org/10.1126/science.adg7879)
+
 2. Petroni, F. _et al._ (2019). _Language Models as Knowledge Bases?_ EMNLP.  
-   https://arxiv.org/abs/1909.01066  
-3. Nogueira, R., & Cho, K. (2019). _Passage Re‑ranking with BERT._ arXiv.  
-   https://arxiv.org/abs/1901.04085  
-4. Cohan, A. _et al._ (2019). _Structural Scaffolds for Citation Intent Classification._ ACL P19‑1102.  
-5. Karpukhin, V. _et al._ (2020). _Dense Passage Retrieval for Open‑Domain QA._ EMNLP.  
-   https://arxiv.org/abs/2004.04906  
+   [https://arxiv.org/abs/1909.01066](https://arxiv.org/abs/1909.01066)
+
+3. Nogueira, R., & Cho, K. (2019). _Passage Re‑ranking with BERT._ arXiv. 
+   [https://arxiv.org/abs/1901.04085](https://arxiv.org/abs/1901.04085)
+
+4. Cohan, A. _et al._ (2019). _Structural Scaffolds for Citation Intent Classification._ ACL P19‑1102.   
+   [https://aclanthology.org/P19-1102](https://aclanthology.org/P19-1102)
+
+5. Karpukhin, V. _et al._ (2020). _Dense Passage Retrieval for Open‑Domain QA._ EMNLP.
+   [https://arxiv.org/abs/2004.04906](https://arxiv.org/abs/2004.04906)
+
 6. Dernoncourt, F., & Lee, J. (2017). _PubMed 200k RCT: Sequential Sentence Classification._ IJCNLP Short Papers I17‑2052.  
-   Dataset: https://www.kaggle.com/datasets/matthewjansen/pubmed-200k-rtc/data
+   Dataset: [https://www.kaggle.com/datasets/matthewjansen/pubmed-200k-rtc/data](https://www.kaggle.com/datasets/matthewjansen/pubmed-200k-rtc/data)
+
+7. Li, Z., Li, X., & Yang, L. (2023). _LLMs as AI Researchers._ AAAI Conference on Artificial Intelligence, 37.
+
+8. Locke, D., & Zuccon, G. (2022). _Case Law Retrieval: Problems, Methods, Challenges and Evaluations in the Last 20 Years._ arXiv.  
+   [https://arxiv.org/abs/2209.09937](https://arxiv.org/abs/2209.09937)
+
+9. Pal, A. (2023). _Med-HALT: Medical Domain Hallucination Test for Large Language Models._ arXiv.  
+   [https://arxiv.org/abs/2310.08562](https://arxiv.org/abs/2310.08562)
+
+10. Wang, Y., Wu, Y., Liu, Y., Zhang, Y., Zhou, M., & Liu, X. (2024). _Factuality of Large Language Models: A Survey._ arXiv.  
+   [https://arxiv.org/abs/2402.02420](https://arxiv.org/abs/2402.02420)
+
+11. White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., Elnashar, A., Spencer-Smith, J., & Schmidt, D. C. (2023). _A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT._ arXiv.  
+   [https://arxiv.org/abs/2302.11382](https://arxiv.org/abs/2302.11382)
+
+12. Xu, W., Lin, J., Zhao, Y., Tan, B., & Shen, Y. (2024). _Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement._ arXiv.  
+   [https://arxiv.org/abs/2403.05923](https://arxiv.org/abs/2403.05923)
 ---
 ## Acknowledgments
 
