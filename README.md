@@ -65,10 +65,7 @@ We address misinformation in AI‑generated scientific content by building a two
 ## Key Files & Notebooks
 
 - **`cleaning/CS4248 SciCite Project.ipynb`**  
-  Exploratory data analysis of the SciCite dataset—data inspection, class distributions, and initial EDA to inform preprocessing and model design. 
-
-- **`cleaning/scicite-master/scripts/train_local.py`**  
-  Training pipeline for the citation‑intent classifier and merging SciCite + PubMed corpora based on a JSON config. 
+  Exploratory data analysis of the SciCite dataset—data inspection, class distributions, and initial EDA to inform preprocessing and model design. Also performs the merging of SciCite + PubMed corpora based on a JSON config. 
 
 - **`llm/llm.py`**  
   Wrapper for all LLM calls (GPT‑4o‑mini, GPT‑4.1‑mini): intent classification prompts, answer‑generation prompts, and API utilities. 
