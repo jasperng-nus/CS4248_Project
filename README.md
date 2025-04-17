@@ -82,7 +82,7 @@ We address misinformation in AI‑generated scientific content by building a two
   Feeds retrieved evidence plus query into the LLM to produce a final, citation‑grounded answer. 
 
 - **`routing/parser.py`** & **`routing/router.py`**  
-  Parses command‑line arguments, steers the two‑stage pipeline (intent -> retrieval -> generation), and formats the output. 
+  Router runs LLM call to retrieve expected citation intent. Parser parses the LLM response to isolate retrieval of the citation string to filter out the CoT
 
 - **`testing/test.py`**  
   End‑to‑end evaluation harness: runs all 288 test queries with and without RAG, compares LLM‑only vs. RAG‑augmented accuracy, and dumps per‑sample flags to `testing/data.json`. 
