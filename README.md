@@ -104,8 +104,7 @@ We address misinformation in AI‑generated scientific content by building a two
 
 3. **Install dependencies**  
    ```bash
-   pip install -r cleaning/scicite-master/requirements.in
-   pip install -r rag/requirements.in
+   pip install -r requirements.txt
    ```
 
 4. **Configure** your OpenAI API key  
