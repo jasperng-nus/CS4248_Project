@@ -178,5 +178,5 @@ Curcumin has been shown to modulate the activation of T cells, B cells, macropha
 ---
 ## Acknowledgments
 
->We would like to thank our mentor, Ong Han Wei, for his guidance and support throughout this project. We would also like to thank Prof. Christian Von Der Weth and Prof. Kan-Min Yen, for their constant support and teaching, helping us get to a stage where we can create tools like this.
+> We would like to thank our mentor, Ong Han Wei, for his guidance and support throughout this project. We would also like to thank Prof. Christian Von Der Weth and Prof. Kan-Min Yen, for their constant support and teaching, helping us get to a stage where we can create tools like this.
 ---
