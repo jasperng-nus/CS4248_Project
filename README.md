@@ -112,6 +112,9 @@ We address misinformation in AI‑generated scientific content by building a two
    ```bash
    export OPENAI_API_KEY="your_api_key_here"
    ```
+   Alternatively, create a `.env` file in the root of the project with the following content:
+   ```bash
+   OPENAI_API_KEY="your_api_key_here"
 
 ---
 ## Training & Indexing
