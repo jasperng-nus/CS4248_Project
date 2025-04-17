@@ -162,10 +162,8 @@ Curcumin has been shown to modulate the activation of T cells, B cells, macropha
 7. Li, Z., Li, X., & Yang, L. (2023). _LLMs as AI Researchers._ AAAI Conference on Artificial Intelligence, 37.
 
 8. Locke, D., & Zuccon, G. (2022). _Case Law Retrieval: Problems, Methods, Challenges and Evaluations in the Last 20 Years._ arXiv.  
-   [https://arxiv.org/abs/2209.09937](https://arxiv.org/abs/2209.09937)
 
 9. Pal, A. (2023). _Med-HALT: Medical Domain Hallucination Test for Large Language Models._ arXiv.  
-   [https://arxiv.org/abs/2310.08562](https://arxiv.org/abs/2310.08562)
 
 10. Wang, Y., Wu, Y., Liu, Y., Zhang, Y., Zhou, M., & Liu, X. (2024). _Factuality of Large Language Models: A Survey._ arXiv.  
    [https://arxiv.org/abs/2402.02420](https://arxiv.org/abs/2402.02420)
@@ -174,9 +172,8 @@ Curcumin has been shown to modulate the activation of T cells, B cells, macropha
    [https://arxiv.org/abs/2302.11382](https://arxiv.org/abs/2302.11382)
 
 12. Xu, W., Lin, J., Zhao, Y., Tan, B., & Shen, Y. (2024). _Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement._ arXiv.  
-   [https://arxiv.org/abs/2403.05923](https://arxiv.org/abs/2403.05923)
 ---
-## Acknowledgments
+## Acknowledgment
 
 > We would like to thank our mentor, Ong Han Wei, for his guidance and support throughout this project. We would also like to thank Prof. Christian Von Der Weth and Prof. Kan-Min Yen, for their constant support and teaching, helping us get to a stage where we can create tools like this.
 ---
