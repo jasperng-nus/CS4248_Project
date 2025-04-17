@@ -119,35 +119,27 @@ We address misinformation in AI‑generated scientific content by building a two
 ---
 ## Training & Indexing
 
-1. **Compute embeddings**  
+1. **Generate embeddings**  
    ```bash
-   python -m rag.src.faiss.embeddings \
-     --input cleaning/AugmentedData/augmented_data.jsonl \
-     --output rag/data/embeddings/augmented_data_embeddings.npy \
-     --model text-embedding-3-small
+   python -m rag/src/embeddings.py
    ```
-
-2. **Build FAISS index**  
-   ```bash
-   python -m rag.src.faiss.retrieval --build-index \
-     --embeddings rag/data/embeddings/augmented_data_embeddings.npy \
-     --index rag/data/embeddings/faiss_index.idx
-   ```
-
 
 ---
 
 ## Usage
 
 ```bash
-python routing/router.py \
-  --query "How does shear stress activate ERK in endothelial cells?" \
-  --top_k 5 \
-  --sim_threshold 0.2
+python rag/src/generation.py --question "What cells are modulated by the immunomodulatory agent curcumin?"               
 ```
 
 **Example output:**
-> **Answer:** “Shear stress activates ERK via a Gαi‑2, Src/FAK, and PKC‑ε/Ras cascade.”  
+**Answer:**
+```
+"The RAG has referenced claims from the following papers:
+1. Furthermore, curcumin has been shown to be a potent immunomodulatory agent that can modulate the activation of T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells (Allam 2009). (Claim obtained from Citing Paper ID: af0fea7198d70421a86e0fa65e31bcc56803de5a. Similarity Score: 0.38)
+
+Curcumin has been shown to modulate the activation of T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells."
+```
 
 ---
 ## References
