@@ -43,7 +43,7 @@ We address misinformation in AI‑generated scientific content by building a two
 ├── .gitattributes
 ├── .gitignore
 ├── README.md
-├── outputs.json                 # Sample model outputs
+├── outputs.json                 # Sample model outputs for test data
 ├── cleaning/                    # Data cleaning & corpora preparation
 │   ├── AugmentedData/           # JSONL of merged SciCite + PubMed
 │   ├── pubmed_20k/              # Raw + cleaned PubMed‑200k RCT splits
@@ -51,12 +51,13 @@ We address misinformation in AI‑generated scientific content by building a two
 │   └── scicite-master/          # Modified SciCite codebase & configs
 ├── llm/                         # Prompt templates & LLM client wrappers
 ├── rag/                         # RAG pipeline components
+|   ├── faiss                        
 │   ├── data/
 │   │   ├── raw/                 # test.jsonl
 │   │   └── embeddings/          # .npy embeddings + FAISS index + CSV
-│   └── src/faiss/               # embeddings.py, retrieval.py, generation.py
+│   └── src                      # embeddings.py, retrieval.py, generation.py
 ├── routing/                     # Query intent routing & parser
-└── testing/                     # Unit & integration tests
+└── testing/                     # Tests
     └── test.py
 ```
 
