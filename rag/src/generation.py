@@ -7,6 +7,7 @@ project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(_
 sys.path.append(project_root)
 from rag.src.retrieval import retrieve
 from llm.llm import LLMEngine
+import argparse
 
 
 GENERATION_MODEL = "gpt-4o-mini"
@@ -105,7 +106,9 @@ def determine_model_output_norag(query):
     return answer
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Generate an answer for a given question.")
+    parser.add_argument("--question", type=str, help="The question to be answered.")
+    args = parser.parse_args()
     # query = "What are the effects of climate change on coral reefs?"
     # query = "What were Mouse embryonic fibroblasts (MEFs) infected with?"
-    query = "Among the subgroups with minor depressive symptoms at baseline ( CES-D score 16-20 ) , did the CES-D score increase of decrease?"
-    print(generate_answer(query))
+    print(generate_answer(args))

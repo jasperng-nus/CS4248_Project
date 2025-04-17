@@ -1,0 +1,12 @@
+allennlp==2.10.1
+jsonlines==4.0.0
+numpy==2.2.4
+openai==1.75.0
+overrides==7.7.0
+pandas==2.0.1
+pytest==8.3.5
+python-dotenv==1.1.0
+python_Levenshtein==0.27.1
+spacy==3.8.4
+tensorboardX==2.6.2.2
+torch==2.2.2
